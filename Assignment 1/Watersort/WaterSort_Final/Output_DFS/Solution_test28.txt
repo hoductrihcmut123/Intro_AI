@@ -1,0 +1,52 @@
+     -------------------** LEVEL 28 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 5
+;bb;cada;cc;dabd;dacb;
+
+STEP 2 : Move 2 to 6
+bb;cada;cc;d;dab;dacb;
+
+STEP 3 : Move 2 to 5
+bbb;cada;cc;d;da;dacb;
+
+STEP 4 : Move 3 to 2
+bbb;cad;cc;d;daa;dacb;
+
+STEP 5 : Move 3 to 6
+bbb;ca;cc;daa;dacb;dd;
+
+STEP 6 : Move 2 to 3
+bbb;caaa;cc;d;dacb;dd;
+
+STEP 7 : Move 2 to 6
+;bbb;caaa;cc;dacb;ddd;
+
+STEP 8 : Move 3 to 2
+aaa;bbb;c;cc;dacb;ddd;
+
+STEP 9 : Move 1 to 3
+;aaa;bbb;ccc;dacb;ddd;
+
+STEP 10 : Move 4 to 1
+aaa;b;bbb;ccc;dac;ddd;
+
+STEP 11 : Move 1 to 5
+;aaa;bbbb;ccc;dac;ddd;
+
+STEP 12 : Move 4 to 1
+aaa;bbbb;c;ccc;da;ddd;
+
+STEP 13 : Move 1 to 3
+;aaa;bbbb;cccc;da;ddd;
+
+STEP 14 : Move 4 to 1
+a;aaa;bbbb;cccc;d;ddd;
+
+STEP 15 : Move 1 to 2
+;aaaa;bbbb;cccc;d;ddd;
+
+STEP 16 : Move 4 to 6
+;;aaaa;bbbb;cccc;dddd;
+

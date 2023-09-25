@@ -1,0 +1,7 @@
+     -------------------** LEVEL 0 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 2
+;aaaa;
+

@@ -1,0 +1,4 @@
+60
+10
+2
+['fabh', 'edec', 'ddhd', 'caee', 'gfhc', 'fcbf', 'gbgh', 'aabg', '', '']

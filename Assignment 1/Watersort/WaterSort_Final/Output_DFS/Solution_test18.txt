@@ -1,0 +1,43 @@
+     -------------------** LEVEL 18 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 4
+;baca;bcb;c;cbaa;
+
+STEP 2 : Move 1 to 5
+b;baca;bc;c;cbaa;
+
+STEP 3 : Move 1 to 4
+b;b;baca;cbaa;cc;
+
+STEP 4 : Move 1 to 5
+;baca;bb;cbaa;cc;
+
+STEP 5 : Move 2 to 1
+a;bac;bb;cbaa;cc;
+
+STEP 6 : Move 2 to 4
+a;ba;bb;cbaa;ccc;
+
+STEP 7 : Move 1 to 2
+;baa;bb;cbaa;ccc;
+
+STEP 8 : Move 2 to 1
+aa;b;bb;cbaa;ccc;
+
+STEP 9 : Move 2 to 5
+;aa;bbb;cbaa;ccc;
+
+STEP 10 : Move 3 to 1
+;aaaa;bbb;cb;ccc;
+
+STEP 11 : Move 3 to 2
+aaaa;b;bbb;c;ccc;
+
+STEP 12 : Move 2 to 5
+;aaaa;bbbb;c;ccc;
+
+STEP 13 : Move 3 to 4
+;;aaaa;bbbb;cccc;
+

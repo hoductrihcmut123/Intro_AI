@@ -1,0 +1,4 @@
+89
+12
+2
+['aiha', 'jdab', 'gdaf', 'fegi', 'ijhf', 'jchb', 'ejhc', 'fgie', 'cgde', 'bcdb', '', '']

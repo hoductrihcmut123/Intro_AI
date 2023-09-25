@@ -1,0 +1,73 @@
+     -------------------** LEVEL 57 **--------------------
+
+* Algorithm run time : 0.06183433532714844[sec]
+
+STEP 0 : Move 0 to 0
+['cbbf', 'caga', 'gebc', 'deea', 'fcfa', 'fgdd', 'gdbe', '', '']
+
+STEP 1 : Move 1 to 8
+['cbb', 'caga', 'gebc', 'deea', 'fcfa', 'fgdd', 'gdbe', 'f', '']
+
+STEP 2 : Move 2 to 9
+['cbb', 'cag', 'gebc', 'deea', 'fcfa', 'fgdd', 'gdbe', 'f', 'a']
+
+STEP 3 : Move 4 to 9
+['cbb', 'cag', 'gebc', 'dee', 'fcfa', 'fgdd', 'gdbe', 'f', 'aa']
+
+STEP 4 : Move 5 to 9
+['cbb', 'cag', 'gebc', 'dee', 'fcf', 'fgdd', 'gdbe', 'f', 'aaa']
+
+STEP 5 : Move 5 to 8
+['cbb', 'cag', 'gebc', 'dee', 'fc', 'fgdd', 'gdbe', 'ff', 'aaa']
+
+STEP 6 : Move 3 to 5
+['cbb', 'cag', 'geb', 'dee', 'fcc', 'fgdd', 'gdbe', 'ff', 'aaa']
+
+STEP 7 : Move 3 to 1
+['cbbb', 'cag', 'ge', 'dee', 'fcc', 'fgdd', 'gdbe', 'ff', 'aaa']
+
+STEP 8 : Move 3 to 4
+['cbbb', 'cag', 'g', 'deee', 'fcc', 'fgdd', 'gdbe', 'ff', 'aaa']
+
+STEP 9 : Move 2 to 3
+['cbbb', 'ca', 'gg', 'deee', 'fcc', 'fgdd', 'gdbe', 'ff', 'aaa']
+
+STEP 10 : Move 2 to 9
+['cbbb', 'c', 'gg', 'deee', 'fcc', 'fgdd', 'gdbe', 'ff', 'aaaa']
+
+STEP 11 : Move 5 to 2
+['cbbb', 'ccc', 'gg', 'deee', 'f', 'fgdd', 'gdbe', 'ff', 'aaaa']
+
+STEP 12 : Move 5 to 8
+['cbbb', 'ccc', 'gg', 'deee', '', 'fgdd', 'gdbe', 'fff', 'aaaa']
+
+STEP 13 : Move 4 to 5
+['cbbb', 'ccc', 'gg', 'd', 'eee', 'fgdd', 'gdbe', 'fff', 'aaaa']
+
+STEP 14 : Move 6 to 4
+['cbbb', 'ccc', 'gg', 'ddd', 'eee', 'fg', 'gdbe', 'fff', 'aaaa']
+
+STEP 15 : Move 6 to 3
+['cbbb', 'ccc', 'ggg', 'ddd', 'eee', 'f', 'gdbe', 'fff', 'aaaa']
+
+STEP 16 : Move 7 to 5
+['cbbb', 'ccc', 'ggg', 'ddd', 'eeee', 'f', 'gdb', 'fff', 'aaaa']
+
+STEP 17 : Move 6 to 8
+['cbbb', 'ccc', 'ggg', 'ddd', 'eeee', '', 'gdb', 'ffff', 'aaaa']
+
+STEP 18 : Move 1 to 6
+['c', 'ccc', 'ggg', 'ddd', 'eeee', 'bbb', 'gdb', 'ffff', 'aaaa']
+
+STEP 19 : Move 7 to 6
+['c', 'ccc', 'ggg', 'ddd', 'eeee', 'bbbb', 'gd', 'ffff', 'aaaa']
+
+STEP 20 : Move 7 to 4
+['c', 'ccc', 'ggg', 'dddd', 'eeee', 'bbbb', 'g', 'ffff', 'aaaa']
+
+STEP 21 : Move 1 to 2
+['', 'cccc', 'ggg', 'dddd', 'eeee', 'bbbb', 'g', 'ffff', 'aaaa']
+
+STEP 22 : Move 3 to 7
+['', 'cccc', '', 'dddd', 'eeee', 'bbbb', 'gggg', 'ffff', 'aaaa']
+

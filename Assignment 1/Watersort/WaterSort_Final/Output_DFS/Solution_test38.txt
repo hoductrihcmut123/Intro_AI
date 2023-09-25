@@ -1,0 +1,43 @@
+     -------------------** LEVEL 38 **--------------------
+
+* Algorithm run time : 0.0009970664978027344[sec]
+
+STEP 1 : Move 1 to 6
+;abaa;acdb;cccb;d;eddb;eee;
+
+STEP 2 : Move 2 to 7
+abaa;acdb;b;ccc;d;eddb;eee;
+
+STEP 3 : Move 3 to 7
+abaa;acd;bb;ccc;d;eddb;eee;
+
+STEP 4 : Move 3 to 6
+abaa;ac;bb;ccc;dd;eddb;eee;
+
+STEP 5 : Move 3 to 2
+a;abaa;bb;cccc;dd;eddb;eee;
+
+STEP 6 : Move 4 to 7
+a;abaa;bbb;cccc;dd;edd;eee;
+
+STEP 7 : Move 4 to 6
+a;abaa;bbb;cccc;dddd;e;eee;
+
+STEP 8 : Move 1 to 4
+;a;abaa;bbb;cccc;dddd;eeee;
+
+STEP 9 : Move 5 to 1
+a;aa;ab;bbb;cccc;dddd;eeee;
+
+STEP 10 : Move 1 to 3
+;aaa;ab;bbb;cccc;dddd;eeee;
+
+STEP 11 : Move 5 to 1
+a;aaa;b;bbb;cccc;dddd;eeee;
+
+STEP 12 : Move 1 to 7
+;a;aaa;bbbb;cccc;dddd;eeee;
+
+STEP 13 : Move 3 to 5
+;;aaaa;bbbb;cccc;dddd;eeee;
+

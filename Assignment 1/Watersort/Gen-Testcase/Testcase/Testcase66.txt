@@ -1,0 +1,4 @@
+66
+10
+2
+['hdhc', 'geba', 'cgfd', 'aabe', 'abdh', 'debf', 'gcge', 'hcff', '', '']

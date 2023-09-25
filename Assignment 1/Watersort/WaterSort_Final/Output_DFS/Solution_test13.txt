@@ -1,0 +1,31 @@
+     -------------------** LEVEL 13 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 4
+;aabb;acbc;b;cca;
+
+STEP 2 : Move 1 to 5
+a;aabb;acbc;b;cc;
+
+STEP 3 : Move 2 to 1
+a;aabb;acb;b;ccc;
+
+STEP 4 : Move 2 to 4
+a;aabb;ac;bb;ccc;
+
+STEP 5 : Move 2 to 1
+a;a;aabb;bb;cccc;
+
+STEP 6 : Move 2 to 5
+;aa;aabb;bb;cccc;
+
+STEP 7 : Move 3 to 2
+aa;aa;bb;bb;cccc;
+
+STEP 8 : Move 2 to 4
+;aa;aa;bbbb;cccc;
+
+STEP 9 : Move 3 to 5
+;;aaaa;bbbb;cccc;
+

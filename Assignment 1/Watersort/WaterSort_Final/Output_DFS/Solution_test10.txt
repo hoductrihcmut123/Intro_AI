@@ -1,0 +1,31 @@
+     -------------------** LEVEL 10 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 4
+;aaa;b;babc;bccc;
+
+STEP 2 : Move 2 to 5
+aaa;b;b;babc;ccc;
+
+STEP 3 : Move 2 to 4
+;aaa;babc;bb;ccc;
+
+STEP 4 : Move 3 to 2
+aaa;bab;bb;c;ccc;
+
+STEP 5 : Move 2 to 5
+;aaa;bab;bb;cccc;
+
+STEP 6 : Move 3 to 2
+aaa;b;ba;bb;cccc;
+
+STEP 7 : Move 2 to 4
+;aaa;ba;bbb;cccc;
+
+STEP 8 : Move 3 to 1
+;aaaa;b;bbb;cccc;
+
+STEP 9 : Move 3 to 4
+;;aaaa;bbbb;cccc;
+

@@ -1,0 +1,46 @@
+     -------------------** LEVEL 15 **--------------------
+
+* Algorithm run time : 0.000995635986328125[sec]
+
+STEP 1 : Move 1 to 4
+;abc;b;bacb;caca;
+
+STEP 2 : Move 1 to 5
+ab;b;bacb;c;caca;
+
+STEP 3 : Move 1 to 4
+a;bacb;bb;c;caca;
+
+STEP 4 : Move 2 to 1
+aa;bacb;bb;c;cac;
+
+STEP 5 : Move 2 to 5
+aa;bacb;bb;ca;cc;
+
+STEP 6 : Move 1 to 2
+;bacb;bb;caaa;cc;
+
+STEP 7 : Move 2 to 1
+aaa;bacb;bb;c;cc;
+
+STEP 8 : Move 2 to 5
+;aaa;bacb;bb;ccc;
+
+STEP 9 : Move 3 to 2
+aaa;b;bac;bb;ccc;
+
+STEP 10 : Move 2 to 4
+;aaa;bac;bbb;ccc;
+
+STEP 11 : Move 3 to 2
+aaa;ba;bbb;c;ccc;
+
+STEP 12 : Move 2 to 5
+;aaa;ba;bbb;cccc;
+
+STEP 13 : Move 3 to 1
+;aaaa;b;bbb;cccc;
+
+STEP 14 : Move 3 to 4
+;;aaaa;bbbb;cccc;
+

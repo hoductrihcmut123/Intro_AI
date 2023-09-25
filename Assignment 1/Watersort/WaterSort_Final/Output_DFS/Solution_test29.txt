@@ -1,0 +1,46 @@
+     -------------------** LEVEL 29 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 5
+;abca;abdb;accd;b;cdd;
+
+STEP 2 : Move 1 to 6
+abca;abdb;accd;b;c;dd;
+
+STEP 3 : Move 3 to 5
+abca;abd;accd;bb;c;dd;
+
+STEP 4 : Move 3 to 6
+ab;abca;accd;bb;c;ddd;
+
+STEP 5 : Move 3 to 5
+a;abca;accd;bbb;c;ddd;
+
+STEP 6 : Move 2 to 3
+aa;abc;accd;bbb;c;ddd;
+
+STEP 7 : Move 1 to 2
+;aa;abcc;accd;bbb;ddd;
+
+STEP 8 : Move 2 to 1
+aa;ab;accd;bbb;cc;ddd;
+
+STEP 9 : Move 2 to 5
+a;aa;accd;bbbb;cc;ddd;
+
+STEP 10 : Move 2 to 3
+;aaa;accd;bbbb;cc;ddd;
+
+STEP 11 : Move 4 to 2
+aaa;acc;bbbb;cc;d;ddd;
+
+STEP 12 : Move 2 to 6
+;aaa;acc;bbbb;cc;dddd;
+
+STEP 13 : Move 4 to 1
+;a;aaa;bbbb;cccc;dddd;
+
+STEP 14 : Move 3 to 4
+;;aaaa;bbbb;cccc;dddd;
+

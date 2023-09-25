@@ -1,0 +1,40 @@
+     -------------------** LEVEL 18 **--------------------
+
+* Algorithm run time : 0.008977174758911133[sec]
+
+STEP 0 : Move 0 to 0
+['bcbc', 'baca', 'cbaa', '', '']
+
+STEP 1 : Move 1 to 4
+['bcb', 'baca', 'cbaa', 'c', '']
+
+STEP 2 : Move 1 to 5
+['bc', 'baca', 'cbaa', 'c', 'b']
+
+STEP 3 : Move 1 to 4
+['b', 'baca', 'cbaa', 'cc', 'b']
+
+STEP 4 : Move 1 to 5
+['', 'baca', 'cbaa', 'cc', 'bb']
+
+STEP 5 : Move 2 to 1
+['a', 'bac', 'cbaa', 'cc', 'bb']
+
+STEP 6 : Move 2 to 4
+['a', 'ba', 'cbaa', 'ccc', 'bb']
+
+STEP 7 : Move 2 to 1
+['aa', 'b', 'cbaa', 'ccc', 'bb']
+
+STEP 8 : Move 3 to 1
+['aaaa', 'b', 'cb', 'ccc', 'bb']
+
+STEP 9 : Move 3 to 2
+['aaaa', 'bb', 'c', 'ccc', 'bb']
+
+STEP 10 : Move 2 to 5
+['aaaa', '', 'c', 'ccc', 'bbbb']
+
+STEP 11 : Move 3 to 4
+['aaaa', '', '', 'cccc', 'bbbb']
+

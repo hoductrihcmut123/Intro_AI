@@ -1,0 +1,4 @@
+38
+7
+2
+['eeed', 'cccb', 'acdb', 'eddb', 'abaa', '', '']

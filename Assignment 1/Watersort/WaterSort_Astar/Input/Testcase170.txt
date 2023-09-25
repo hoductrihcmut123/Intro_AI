@@ -1,0 +1,4 @@
+170
+21
+2
+['ocas', 'mcbi', 'ffgk', 'ajfn', 'jecd', 'hnis', 'rmnk', 'bqmc', 'jlki', 'fhkm', 'jeel', 'bhpr', 'qdli', 'odel', 'rspq', 'aprp', 'ghdq', 'agob', 'sngo', '', '']

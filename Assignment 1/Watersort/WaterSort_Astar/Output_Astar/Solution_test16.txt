@@ -1,0 +1,34 @@
+     -------------------** LEVEL 16 **--------------------
+
+* Algorithm run time : 0.004986763000488281[sec]
+
+STEP 0 : Move 0 to 0
+['bbcb', 'aabc', 'caca', '', '']
+
+STEP 1 : Move 1 to 4
+['bbc', 'aabc', 'caca', 'b', '']
+
+STEP 2 : Move 2 to 1
+['bbcc', 'aab', 'caca', 'b', '']
+
+STEP 3 : Move 2 to 4
+['bbcc', 'aa', 'caca', 'bb', '']
+
+STEP 4 : Move 3 to 2
+['bbcc', 'aaa', 'cac', 'bb', '']
+
+STEP 5 : Move 1 to 5
+['bb', 'aaa', 'cac', 'bb', 'cc']
+
+STEP 6 : Move 3 to 5
+['bb', 'aaa', 'ca', 'bb', 'ccc']
+
+STEP 7 : Move 3 to 2
+['bb', 'aaaa', 'c', 'bb', 'ccc']
+
+STEP 8 : Move 1 to 4
+['', 'aaaa', 'c', 'bbbb', 'ccc']
+
+STEP 9 : Move 3 to 5
+['', 'aaaa', '', 'bbbb', 'cccc']
+

@@ -1,0 +1,4 @@
+80
+12
+2
+['gjhj', 'hifg', 'jhfb', 'dgah', 'ceba', 'deai', 'cdbb', 'ffic', 'adci', 'jege', '', '']

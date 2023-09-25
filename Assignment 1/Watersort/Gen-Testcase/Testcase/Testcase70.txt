@@ -1,0 +1,4 @@
+70
+11
+2
+['hafe', 'bbbb', 'gaeg', 'icid', 'fcae', 'hhfc', 'ecgg', 'difi', 'ddah', '', '']

@@ -1,0 +1,4 @@
+47
+8
+2
+['deed', 'bcaa', 'dcbd', 'fcff', 'aacf', 'beeb', '', '']

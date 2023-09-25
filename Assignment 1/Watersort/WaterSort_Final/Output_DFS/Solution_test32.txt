@@ -1,0 +1,76 @@
+     -------------------** LEVEL 32 **--------------------
+
+* Algorithm run time : 0.0009970664978027344[sec]
+
+STEP 1 : Move 1 to 6
+;aea;babd;bcbd;e;ecda;ecdc;
+
+STEP 2 : Move 1 to 7
+a;ae;babd;bcbd;e;ecda;ecdc;
+
+STEP 3 : Move 1 to 6
+a;a;babd;bcbd;ecda;ecdc;ee;
+
+STEP 4 : Move 1 to 7
+;aa;babd;bcbd;ecda;ecdc;ee;
+
+STEP 5 : Move 2 to 1
+aa;babd;bcbd;c;ecd;ecda;ee;
+
+STEP 6 : Move 3 to 7
+aaa;babd;bcbd;c;ecd;ecd;ee;
+
+STEP 7 : Move 2 to 3
+aaa;babd;bcbd;c;ec;ecdd;ee;
+
+STEP 8 : Move 1 to 2
+;aaa;babd;bcbd;ecc;ecdd;ee;
+
+STEP 9 : Move 2 to 1
+aaa;babd;bcbd;cc;e;ecdd;ee;
+
+STEP 10 : Move 2 to 6
+;aaa;babd;bcbd;cc;ecdd;eee;
+
+STEP 11 : Move 3 to 2
+aaa;babd;bcbd;cc;dd;ec;eee;
+
+STEP 12 : Move 1 to 3
+;aaa;babd;bcbd;dd;eccc;eee;
+
+STEP 13 : Move 3 to 1
+aaa;babd;bcbd;ccc;dd;e;eee;
+
+STEP 14 : Move 3 to 6
+;aaa;babd;bcbd;ccc;dd;eeee;
+
+STEP 15 : Move 4 to 2
+;aaa;babd;bcb;ccc;ddd;eeee;
+
+STEP 16 : Move 4 to 3
+aaa;b;babd;bc;ccc;ddd;eeee;
+
+STEP 17 : Move 4 to 1
+aaa;b;b;babd;cccc;ddd;eeee;
+
+STEP 18 : Move 3 to 4
+;aaa;babd;bb;cccc;ddd;eeee;
+
+STEP 19 : Move 5 to 2
+;aaa;bab;bb;cccc;dddd;eeee;
+
+STEP 20 : Move 5 to 3
+aaa;b;ba;bb;cccc;dddd;eeee;
+
+STEP 21 : Move 3 to 4
+;aaa;ba;bbb;cccc;dddd;eeee;
+
+STEP 22 : Move 5 to 3
+a;aaa;b;bbb;cccc;dddd;eeee;
+
+STEP 23 : Move 3 to 7
+;aaaa;b;bbb;cccc;dddd;eeee;
+
+STEP 24 : Move 4 to 5
+;;aaaa;bbbb;cccc;dddd;eeee;
+

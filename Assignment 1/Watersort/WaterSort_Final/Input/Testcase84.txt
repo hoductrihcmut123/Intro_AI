@@ -1,0 +1,4 @@
+84
+12
+2
+['jaah', 'gbba', 'eaee', 'idch', 'difi', 'fhdc', 'bcdg', 'fjjj', 'chie', 'gfbg', '', '']

@@ -1,0 +1,4 @@
+90
+13
+2
+['bchi', 'bkgj', 'dabe', 'ahdf', 'ijga', 'dhkg', 'fbic', 'eahf', 'ijec', 'jgdc', 'efkk', '', '']

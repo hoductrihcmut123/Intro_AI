@@ -1,0 +1,4 @@
+67
+10
+2
+['daac', 'dbce', 'aeff', 'bhgc', 'chgh', 'fheb', 'gfde', 'bgda', '', '']

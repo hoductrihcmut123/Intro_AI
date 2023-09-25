@@ -1,0 +1,46 @@
+     -------------------** LEVEL 17 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 4
+;a;abc;baca;bcbc;
+
+STEP 2 : Move 1 to 5
+a;ab;baca;bcbc;c;
+
+STEP 3 : Move 2 to 4
+aa;ab;bac;bcbc;c;
+
+STEP 4 : Move 2 to 5
+aa;ab;ba;bcbc;cc;
+
+STEP 5 : Move 2 to 4
+aaa;ab;b;bcbc;cc;
+
+STEP 6 : Move 1 to 2
+a;aaa;bb;bcbc;cc;
+
+STEP 7 : Move 1 to 4
+;aaaa;bb;bcbc;cc;
+
+STEP 8 : Move 3 to 1
+aaaa;bb;bcb;c;cc;
+
+STEP 9 : Move 1 to 5
+;aaaa;bb;bcb;ccc;
+
+STEP 10 : Move 3 to 1
+aaaa;b;bb;bc;ccc;
+
+STEP 11 : Move 1 to 2
+;aaaa;bbb;bc;ccc;
+
+STEP 12 : Move 3 to 1
+aaaa;b;bbb;c;ccc;
+
+STEP 13 : Move 1 to 5
+;aaaa;b;bbb;cccc;
+
+STEP 14 : Move 2 to 3
+;;aaaa;bbbb;cccc;
+

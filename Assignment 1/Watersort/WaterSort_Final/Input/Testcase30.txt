@@ -1,0 +1,4 @@
+30
+7
+2
+['abcb', 'abce', 'debc', 'edaa', 'ecdd', '', '']

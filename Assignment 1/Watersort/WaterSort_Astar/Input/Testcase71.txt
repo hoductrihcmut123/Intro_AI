@@ -1,0 +1,4 @@
+71
+11
+2
+['icba', 'iaea', 'fhcb', 'hehd', 'aifb', 'gedc', 'ggif', 'gdfb', 'edch', '', '']

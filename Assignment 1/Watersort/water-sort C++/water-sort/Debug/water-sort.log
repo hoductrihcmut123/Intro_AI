@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\THINKPAD\OneDrive\Máy tính\water-sort\water-sort\Source.cpp(25,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\THINKPAD\OneDrive\Máy tính\water-sort\water-sort\Source.cpp(50,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\THINKPAD\OneDrive\Máy tính\water-sort\water-sort\Source.cpp(108,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\THINKPAD\OneDrive\Máy tính\water-sort\water-sort\Source.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+  water-sort.vcxproj -> C:\Users\THINKPAD\OneDrive\Máy tính\water-sort\Debug\water-sort.exe

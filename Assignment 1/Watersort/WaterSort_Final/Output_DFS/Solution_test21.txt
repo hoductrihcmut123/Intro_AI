@@ -1,0 +1,55 @@
+     -------------------** LEVEL 21 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 5
+;acac;bcbd;bdb;caad;d;
+
+STEP 2 : Move 1 to 6
+acac;b;bcbd;bd;caad;d;
+
+STEP 3 : Move 1 to 5
+acac;b;b;bcbd;caad;dd;
+
+STEP 4 : Move 1 to 6
+;acac;bb;bcbd;caad;dd;
+
+STEP 5 : Move 2 to 1
+aca;bb;bcbd;c;caad;dd;
+
+STEP 6 : Move 3 to 5
+aca;bb;bcb;c;caad;ddd;
+
+STEP 7 : Move 3 to 6
+aca;bbb;bc;c;caad;ddd;
+
+STEP 8 : Move 1 to 3
+;aca;bbb;bcc;caad;ddd;
+
+STEP 9 : Move 2 to 1
+a;ac;bbb;bcc;caad;ddd;
+
+STEP 10 : Move 2 to 3
+a;a;bbb;bccc;caad;ddd;
+
+STEP 11 : Move 1 to 2
+;aa;bbb;bccc;caad;ddd;
+
+STEP 12 : Move 3 to 1
+aa;b;bbb;caad;ccc;ddd;
+
+STEP 13 : Move 3 to 6
+;aa;bbbb;caad;ccc;ddd;
+
+STEP 14 : Move 4 to 3
+aa;bbbb;caa;ccc;d;ddd;
+
+STEP 15 : Move 3 to 5
+;aa;bbbb;caa;ccc;dddd;
+
+STEP 16 : Move 4 to 2
+;aaaa;bbbb;c;ccc;dddd;
+
+STEP 17 : Move 1 to 4
+;;aaaa;bbbb;cccc;dddd;
+

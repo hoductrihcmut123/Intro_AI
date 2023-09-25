@@ -1,0 +1,19 @@
+     -------------------** LEVEL 3 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 3
+a;aab;bbab;
+
+STEP 2 : Move 2 to 1
+a;aabb;bba;
+
+STEP 3 : Move 2 to 3
+aa;aabb;bb;
+
+STEP 4 : Move 1 to 2
+aa;aa;bbbb;
+
+STEP 5 : Move 1 to 3
+;aaaa;bbbb;
+

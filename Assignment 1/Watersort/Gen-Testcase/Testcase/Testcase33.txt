@@ -1,0 +1,4 @@
+33
+7
+2
+['decb', 'decd', 'caea', 'bbaa', 'cebd', '', '']

@@ -1,0 +1,163 @@
+     -------------------** LEVEL 133 **--------------------
+
+* Algorithm run time : 0.009028196334838867[sec]
+
+STEP 1 : Move 1 to 16
+;afge;agin;bhj;bkkd;bmej;cjkd;cmjh;dacg;daef;gomo;hlni;icbm;lfne;n;ohlf;olki;
+
+STEP 2 : Move 1 to 17
+afge;agin;bh;bkkd;bmej;cjkd;cmjh;dacg;daef;gomo;hlni;icbm;j;lfne;n;ohlf;olki;
+
+STEP 3 : Move 2 to 17
+afge;agin;bh;bkkd;bme;cjkd;cmjh;dacg;daef;gomo;hlni;icbm;jj;lfne;n;ohlf;olki;
+
+STEP 4 : Move 5 to 2
+afge;agin;bh;bkkd;bmee;cjkd;cmjh;dacg;daef;gomo;hlni;icbm;jj;lfn;n;ohlf;olki;
+
+STEP 5 : Move 5 to 16
+afge;agin;bh;bkkd;bmee;cjkd;cmjh;dacg;daef;gomo;hlni;icbm;jj;lf;nn;ohlf;olki;
+
+STEP 6 : Move 6 to 1
+afge;agin;bhh;bkkd;bmee;cjkd;cmj;dacg;daef;gomo;hlni;icbm;jj;lf;nn;ohlf;olki;
+
+STEP 7 : Move 6 to 17
+afge;agin;bhh;bkkd;bmee;cjkd;cm;dacg;daef;gomo;hlni;icbm;jjj;lf;nn;ohlf;olki;
+
+STEP 8 : Move 7 to 5
+afge;agin;bhh;bkkd;bmee;cjkd;cm;dacg;daef;gomo;hlni;icbm;jjj;lff;nn;ohl;olki;
+
+STEP 9 : Move 9 to 16
+afge;agi;bhh;bkkd;bmee;cjkd;cm;dacg;daef;gomo;hlni;icbm;jjj;lff;nnn;ohl;olki;
+
+STEP 10 : Move 10 to 9
+afge;agii;bhh;bkkd;bmee;cjkd;cm;dacg;daef;gomo;hln;icbm;jjj;lff;nnn;ohl;olki;
+
+STEP 11 : Move 10 to 16
+afge;agii;bhh;bkkd;bmee;cjkd;cm;dacg;daef;gomo;hl;icbm;jjj;lff;nnnn;ohl;olki;
+
+STEP 12 : Move 7 to 10
+afge;agii;bhh;bkkd;bmee;cjkd;cm;dacg;daef;gomo;hll;icbm;jjj;lff;nnnn;oh;olki;
+
+STEP 13 : Move 1 to 7
+afge;agii;b;bkkd;bmee;cjkd;cm;dacg;daef;gomo;hll;icbm;jjj;lff;nnnn;ohhh;olki;
+
+STEP 14 : Move 11 to 5
+afge;agii;b;bkkd;bmee;cjkd;cm;dacg;dae;gomo;hll;icbm;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 15 : Move 12 to 6
+afge;agii;b;bkkd;bmee;cjkd;cmm;dacg;dae;gomo;hll;icb;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 16 : Move 1 to 12
+;afge;agii;bkkd;bmee;cjkd;cmm;dacg;dae;gomo;hll;icbb;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 17 : Move 2 to 1
+afge;agii;bkkd;bm;cjkd;cmm;dacg;dae;ee;gomo;hll;icbb;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 18 : Move 2 to 6
+afge;agii;b;bkkd;cjkd;cmmm;dacg;dae;ee;gomo;hll;icbb;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 19 : Move 11 to 1
+afge;agii;b;bkkd;cjkd;cmmm;da;dacg;eee;gomo;hll;icbb;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 20 : Move 12 to 2
+afge;agii;bbb;bkkd;cjkd;cmmm;da;dacg;eee;gomo;hll;ic;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 21 : Move 13 to 1
+afg;agii;bbb;bkkd;cjkd;cmmm;da;dacg;eeee;gomo;hll;ic;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 22 : Move 15 to 13
+afgg;agii;bbb;bkkd;cjkd;cmmm;da;dac;eeee;gomo;hll;ic;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 23 : Move 15 to 12
+afgg;agii;bbb;bkkd;cjkd;cmmm;da;da;eeee;gomo;hll;icc;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 24 : Move 11 to 15
+afgg;agii;bbb;bkkd;cjkd;cmmm;d;daa;eeee;gomo;hll;icc;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 25 : Move 8 to 11
+afgg;agii;bbb;bkk;cjkd;cmmm;daa;dd;eeee;gomo;hll;icc;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 26 : Move 14 to 11
+afgg;agii;bbb;bkk;cjk;cmmm;daa;ddd;eeee;gomo;hll;icc;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 27 : Move 14 to 8
+afgg;agii;bbb;bkkk;cj;cmmm;daa;ddd;eeee;gomo;hll;icc;jjj;lfff;nnnn;ohhh;olki;
+
+STEP 28 : Move 14 to 17
+afgg;agii;bbb;bkkk;c;cmmm;daa;ddd;eeee;gomo;hll;icc;jjjj;lfff;nnnn;ohhh;olki;
+
+STEP 29 : Move 14 to 12
+;afgg;agii;bbb;bkkk;cmmm;daa;ddd;eeee;gomo;hll;iccc;jjjj;lfff;nnnn;ohhh;olki;
+
+STEP 30 : Move 5 to 14
+afgg;agii;bbb;bkkk;cmmm;daa;ddd;eeee;fff;gomo;hll;iccc;jjjj;l;nnnn;ohhh;olki;
+
+STEP 31 : Move 5 to 10
+;afgg;agii;bbb;bkkk;cmmm;daa;ddd;eeee;fff;gomo;hlll;iccc;jjjj;nnnn;ohhh;olki;
+
+STEP 32 : Move 4 to 5
+afgg;agii;bbb;bkkk;cmmm;daa;ddd;eeee;fff;gomo;hlll;i;iccc;jjjj;nnnn;ohhh;olk;
+
+STEP 33 : Move 9 to 5
+afgg;ag;bbb;bkkk;cmmm;daa;ddd;eeee;fff;gomo;hlll;iccc;iii;jjjj;nnnn;ohhh;olk;
+
+STEP 34 : Move 13 to 9
+af;aggg;bbb;bkkk;cmmm;daa;ddd;eeee;fff;gomo;hlll;iccc;iii;jjjj;nnnn;ohhh;olk;
+
+STEP 35 : Move 13 to 14
+a;aggg;bbb;bkkk;cmmm;daa;ddd;eeee;ffff;gomo;hlll;iccc;iii;jjjj;nnnn;ohhh;olk;
+
+STEP 36 : Move 13 to 15
+;aggg;bbb;bkkk;cmmm;daaa;ddd;eeee;ffff;gomo;hlll;iccc;iii;jjjj;nnnn;ohhh;olk;
+
+STEP 37 : Move 4 to 13
+aggg;bbb;bkkk;cmmm;daaa;ddd;eeee;ffff;gomo;hlll;iccc;iii;jjjj;k;nnnn;ohhh;ol;
+
+STEP 38 : Move 8 to 13
+aggg;b;bbb;cmmm;daaa;ddd;eeee;ffff;gomo;hlll;iccc;iii;jjjj;kkkk;nnnn;ohhh;ol;
+
+STEP 39 : Move 2 to 8
+;aggg;bbbb;cmmm;daaa;ddd;eeee;ffff;gomo;hlll;iccc;iii;jjjj;kkkk;nnnn;ohhh;ol;
+
+STEP 40 : Move 4 to 2
+aggg;bbbb;cmmm;daaa;ddd;eeee;ffff;gomo;hlll;iccc;iii;jjjj;kkkk;l;nnnn;o;ohhh;
+
+STEP 41 : Move 3 to 4
+aggg;bbbb;cmmm;daaa;ddd;eeee;ffff;gom;hlll;iccc;iii;jjjj;kkkk;l;nnnn;ohhh;oo;
+
+STEP 42 : Move 10 to 2
+aggg;bbbb;cmmm;daaa;ddd;eeee;ffff;gom;h;iccc;iii;jjjj;kkkk;llll;nnnn;ohhh;oo;
+
+STEP 43 : Move 7 to 10
+aggg;bbbb;cmmm;daaa;ddd;eeee;ffff;gom;hhhh;iccc;iii;jjjj;kkkk;llll;nnnn;o;oo;
+
+STEP 44 : Move 4 to 7
+;aggg;bbbb;cmmm;daaa;ddd;eeee;ffff;gom;hhhh;iccc;iii;jjjj;kkkk;llll;nnnn;ooo;
+
+STEP 45 : Move 3 to 4
+aggg;bbbb;cmmm;daaa;ddd;eeee;ffff;go;hhhh;iccc;iii;jjjj;kkkk;llll;m;nnnn;ooo;
+
+STEP 46 : Move 3 to 7
+aggg;bbbb;cmmm;daaa;ddd;eeee;ffff;g;hhhh;iccc;iii;jjjj;kkkk;llll;m;nnnn;oooo;
+
+STEP 47 : Move 6 to 4
+aggg;bbbb;c;daaa;ddd;eeee;ffff;g;hhhh;iccc;iii;jjjj;kkkk;llll;mmmm;nnnn;oooo;
+
+STEP 48 : Move 9 to 3
+a;bbbb;c;daaa;ddd;eeee;ffff;gggg;hhhh;iccc;iii;jjjj;kkkk;llll;mmmm;nnnn;oooo;
+
+STEP 49 : Move 12 to 6
+a;bbbb;cccc;daaa;ddd;eeee;ffff;gggg;hhhh;i;iii;jjjj;kkkk;llll;mmmm;nnnn;oooo;
+
+STEP 50 : Move 5 to 12
+;a;bbbb;cccc;daaa;ddd;eeee;ffff;gggg;hhhh;iiii;jjjj;kkkk;llll;mmmm;nnnn;oooo;
+
+STEP 51 : Move 15 to 5
+a;aaa;bbbb;cccc;d;ddd;eeee;ffff;gggg;hhhh;iiii;jjjj;kkkk;llll;mmmm;nnnn;oooo;
+
+STEP 52 : Move 5 to 9
+;aaaa;bbbb;cccc;d;ddd;eeee;ffff;gggg;hhhh;iiii;jjjj;kkkk;llll;mmmm;nnnn;oooo;
+
+STEP 53 : Move 11 to 15
+;;aaaa;bbbb;cccc;dddd;eeee;ffff;gggg;hhhh;iiii;jjjj;kkkk;llll;mmmm;nnnn;oooo;
+

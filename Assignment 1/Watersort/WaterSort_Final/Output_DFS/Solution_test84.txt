@@ -1,0 +1,103 @@
+     -------------------** LEVEL 84 **--------------------
+
+* Algorithm run time : 0.001994609832763672[sec]
+
+STEP 1 : Move 1 to 11
+;bcdg;chie;difi;eaee;fhdc;fjjj;gbba;gfbg;h;idch;jaa;
+
+STEP 2 : Move 2 to 1
+;bcdg;chie;difi;eaee;fhdc;fjjj;gbb;gfbg;h;idch;jaaa;
+
+STEP 3 : Move 2 to 12
+bb;bcdg;chie;difi;eaee;fhdc;fjjj;g;gfbg;h;idch;jaaa;
+
+STEP 4 : Move 4 to 11
+bb;bcdg;chie;difi;eaee;fhdc;fjjj;g;gfbg;hh;idc;jaaa;
+
+STEP 5 : Move 6 to 4
+bb;bcdg;chie;difi;eaee;fhd;fjjj;g;gfbg;hh;idcc;jaaa;
+
+STEP 6 : Move 7 to 2
+bb;bcd;chie;difi;eaee;fhd;fjjj;gfbg;gg;hh;idcc;jaaa;
+
+STEP 7 : Move 6 to 7
+bb;bcdd;chie;difi;eaee;fh;fjjj;gfbg;gg;hh;idcc;jaaa;
+
+STEP 8 : Move 6 to 11
+bb;bcdd;chie;difi;eaee;f;fjjj;gfbg;gg;hhh;idcc;jaaa;
+
+STEP 9 : Move 10 to 2
+bb;bcdd;chie;difi;eaee;f;fjjj;gfb;ggg;hhh;idcc;jaaa;
+
+STEP 10 : Move 10 to 12
+bbb;bcdd;chie;difi;eaee;f;fjjj;gf;ggg;hhh;idcc;jaaa;
+
+STEP 11 : Move 6 to 10
+;bbb;bcdd;chie;difi;eaee;fjjj;gff;ggg;hhh;idcc;jaaa;
+
+STEP 12 : Move 1 to 6
+aaa;bbb;bcdd;chie;difi;eaee;fjjj;gff;ggg;hhh;idcc;j;
+
+STEP 13 : Move 8 to 1
+aaa;bbb;bcdd;chie;difi;eaee;f;gff;ggg;hhh;idcc;jjjj;
+
+STEP 14 : Move 8 to 10
+;aaa;bbb;bcdd;chie;difi;eaee;gfff;ggg;hhh;idcc;jjjj;
+
+STEP 15 : Move 3 to 8
+aaa;bbb;bcdd;chie;difi;ea;ee;gfff;ggg;hhh;idcc;jjjj;
+
+STEP 16 : Move 3 to 6
+aaaa;bbb;bcdd;chie;difi;e;ee;gfff;ggg;hhh;idcc;jjjj;
+
+STEP 17 : Move 3 to 8
+;aaaa;bbb;bcdd;chie;difi;eee;gfff;ggg;hhh;idcc;jjjj;
+
+STEP 18 : Move 4 to 3
+aaaa;bbb;bcdd;cc;chie;difi;eee;gfff;ggg;hhh;id;jjjj;
+
+STEP 19 : Move 7 to 4
+aaaa;bbb;bc;cc;chie;difi;eee;gfff;ggg;hhh;iddd;jjjj;
+
+STEP 20 : Move 3 to 7
+;aaaa;bbb;bccc;chie;difi;eee;gfff;ggg;hhh;iddd;jjjj;
+
+STEP 21 : Move 4 to 3
+aaaa;bbb;bccc;chie;ddd;difi;eee;gfff;ggg;hhh;i;jjjj;
+
+STEP 22 : Move 5 to 4
+aaaa;bbb;bccc;chie;ddd;dif;eee;gfff;ggg;hhh;ii;jjjj;
+
+STEP 23 : Move 9 to 8
+aaaa;bbb;bccc;chi;ddd;dif;eeee;gfff;ggg;hhh;ii;jjjj;
+
+STEP 24 : Move 9 to 4
+aaaa;bbb;bccc;ch;ddd;dif;eeee;gfff;ggg;hhh;iii;jjjj;
+
+STEP 25 : Move 9 to 11
+aaaa;bbb;bccc;c;ddd;dif;eeee;gfff;ggg;hhhh;iii;jjjj;
+
+STEP 26 : Move 7 to 9
+aaaa;b;bbb;cccc;ddd;dif;eeee;gfff;ggg;hhhh;iii;jjjj;
+
+STEP 27 : Move 7 to 12
+;aaaa;bbbb;cccc;ddd;dif;eeee;gfff;ggg;hhhh;iii;jjjj;
+
+STEP 28 : Move 5 to 7
+aaaa;bbbb;cccc;ddd;di;eeee;f;gfff;ggg;hhhh;iii;jjjj;
+
+STEP 29 : Move 5 to 4
+aaaa;bbbb;cccc;d;ddd;eeee;f;gfff;ggg;hhhh;iiii;jjjj;
+
+STEP 30 : Move 3 to 5
+;aaaa;bbbb;cccc;dddd;eeee;f;gfff;ggg;hhhh;iiii;jjjj;
+
+STEP 31 : Move 10 to 3
+aaaa;bbbb;cccc;dddd;eeee;f;fff;g;ggg;hhhh;iiii;jjjj;
+
+STEP 32 : Move 2 to 10
+;aaaa;bbbb;cccc;dddd;eeee;f;fff;gggg;hhhh;iiii;jjjj;
+
+STEP 33 : Move 3 to 7
+;;aaaa;bbbb;cccc;dddd;eeee;ffff;gggg;hhhh;iiii;jjjj;
+

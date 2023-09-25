@@ -1,0 +1,4 @@
+32
+7
+2
+['aeae', 'ecdc', 'ecda', 'bcbd', 'babd', '', '']

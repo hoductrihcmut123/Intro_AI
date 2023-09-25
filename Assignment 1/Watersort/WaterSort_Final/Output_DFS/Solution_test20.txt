@@ -1,0 +1,46 @@
+     -------------------** LEVEL 20 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 5
+;bbd;c;cada;dcaa;dcbb;
+
+STEP 2 : Move 1 to 6
+bb;c;cada;d;dcaa;dcbb;
+
+STEP 3 : Move 2 to 1
+bbbb;c;cada;d;dc;dcaa;
+
+STEP 4 : Move 2 to 5
+bbbb;cada;cc;d;d;dcaa;
+
+STEP 5 : Move 2 to 6
+;bbbb;cada;cc;dcaa;dd;
+
+STEP 6 : Move 3 to 2
+a;bbbb;cad;cc;dcaa;dd;
+
+STEP 7 : Move 3 to 6
+a;bbbb;ca;cc;dcaa;ddd;
+
+STEP 8 : Move 2 to 3
+;bbbb;caa;cc;dcaa;ddd;
+
+STEP 9 : Move 3 to 2
+aa;bbbb;c;cc;dcaa;ddd;
+
+STEP 10 : Move 3 to 5
+;aa;bbbb;ccc;dcaa;ddd;
+
+STEP 11 : Move 4 to 2
+;aaaa;bbbb;ccc;dc;ddd;
+
+STEP 12 : Move 4 to 3
+aaaa;bbbb;c;ccc;d;ddd;
+
+STEP 13 : Move 3 to 5
+;aaaa;bbbb;cccc;d;ddd;
+
+STEP 14 : Move 4 to 6
+;;aaaa;bbbb;cccc;dddd;
+

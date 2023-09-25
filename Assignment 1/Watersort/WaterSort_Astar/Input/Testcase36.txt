@@ -1,0 +1,4 @@
+36
+7
+2
+['ddec', 'bbde', 'cebc', 'aadb', 'aaec', '', '']

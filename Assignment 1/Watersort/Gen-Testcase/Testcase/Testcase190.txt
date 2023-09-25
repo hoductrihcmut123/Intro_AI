@@ -1,0 +1,4 @@
+190
+23
+2
+['lclc', 'brno', 'hppd', 'ahif', 'anks', 'khmk', 'ihpg', 'kjoq', 'fnqe', 'tumu', 'jilr', 'otma', 'dmnq', 'feqe', 'sgsu', 'asbe', 'rrji', 'gjcc', 'ugbo', 'dftl', 'bdpt', '', '']

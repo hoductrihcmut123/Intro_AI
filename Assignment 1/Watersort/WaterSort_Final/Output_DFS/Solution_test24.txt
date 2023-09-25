@@ -1,0 +1,46 @@
+     -------------------** LEVEL 24 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 5
+;aa;abcd;bcab;bcdc;dd;
+
+STEP 2 : Move 2 to 6
+aa;abcd;b;bca;bcdc;dd;
+
+STEP 3 : Move 2 to 5
+aaa;abcd;b;bc;bcdc;dd;
+
+STEP 4 : Move 3 to 2
+aaa;abcd;b;bcc;bcd;dd;
+
+STEP 5 : Move 3 to 1
+aaa;abcd;b;bc;bcc;ddd;
+
+STEP 6 : Move 2 to 3
+aaa;abcd;b;b;bccc;ddd;
+
+STEP 7 : Move 2 to 6
+;aaa;abcd;bb;bccc;ddd;
+
+STEP 8 : Move 3 to 2
+aaa;abcd;b;bb;ccc;ddd;
+
+STEP 9 : Move 3 to 6
+;aaa;abcd;bbb;ccc;ddd;
+
+STEP 10 : Move 4 to 1
+;aaa;abc;bbb;ccc;dddd;
+
+STEP 11 : Move 4 to 2
+;aaa;ab;bbb;cccc;dddd;
+
+STEP 12 : Move 4 to 3
+a;aaa;b;bbb;cccc;dddd;
+
+STEP 13 : Move 3 to 6
+;a;aaa;bbbb;cccc;dddd;
+
+STEP 14 : Move 4 to 5
+;;aaaa;bbbb;cccc;dddd;
+

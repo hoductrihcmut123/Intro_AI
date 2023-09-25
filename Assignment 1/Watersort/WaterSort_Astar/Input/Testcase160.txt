@@ -1,0 +1,4 @@
+160
+20
+2
+['aqig', 'cjee', 'pmra', 'redf', 'clne', 'bdck', 'fdgq', 'pjic', 'gkfb', 'mloh', 'fpog', 'bhio', 'jokq', 'jrmn', 'khad', 'nmhi', 'lrbn', 'lpaq', '', '']

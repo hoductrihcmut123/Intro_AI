@@ -1,0 +1,28 @@
+     -------------------** LEVEL 13 **--------------------
+
+* Algorithm run time : 0.00299072265625[sec]
+
+STEP 0 : Move 0 to 0
+['ccab', 'acbc', 'aabb', '', '']
+
+STEP 1 : Move 1 to 4
+['cca', 'acbc', 'aabb', 'b', '']
+
+STEP 2 : Move 3 to 4
+['cca', 'acbc', 'aa', 'bbb', '']
+
+STEP 3 : Move 1 to 3
+['cc', 'acbc', 'aaa', 'bbb', '']
+
+STEP 4 : Move 2 to 1
+['ccc', 'acb', 'aaa', 'bbb', '']
+
+STEP 5 : Move 2 to 4
+['ccc', 'ac', 'aaa', 'bbbb', '']
+
+STEP 6 : Move 2 to 1
+['cccc', 'a', 'aaa', 'bbbb', '']
+
+STEP 7 : Move 2 to 3
+['cccc', '', 'aaaa', 'bbbb', '']
+

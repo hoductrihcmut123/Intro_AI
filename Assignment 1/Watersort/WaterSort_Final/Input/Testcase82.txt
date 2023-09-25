@@ -1,0 +1,4 @@
+82
+12
+2
+['ibeb', 'eiab', 'ccgh', 'chja', 'geii', 'hagh', 'jfdj', 'gefc', 'fdda', 'fdbj', '', '']

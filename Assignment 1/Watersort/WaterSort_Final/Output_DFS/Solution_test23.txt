@@ -1,0 +1,49 @@
+     -------------------** LEVEL 23 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 5
+;bada;bbc;ccbd;d;daca;
+
+STEP 2 : Move 1 to 6
+bada;bb;c;ccbd;d;daca;
+
+STEP 3 : Move 2 to 5
+bada;bb;c;ccb;daca;dd;
+
+STEP 4 : Move 2 to 1
+bada;bbb;c;cc;daca;dd;
+
+STEP 5 : Move 2 to 6
+;bada;bbb;ccc;daca;dd;
+
+STEP 6 : Move 3 to 2
+a;bada;bbb;ccc;dac;dd;
+
+STEP 7 : Move 3 to 6
+a;bada;bbb;cccc;da;dd;
+
+STEP 8 : Move 2 to 3
+;bada;bbb;cccc;daa;dd;
+
+STEP 9 : Move 3 to 2
+aa;bada;bbb;cccc;d;dd;
+
+STEP 10 : Move 3 to 5
+;aa;bada;bbb;cccc;ddd;
+
+STEP 11 : Move 4 to 2
+;aaa;bad;bbb;cccc;ddd;
+
+STEP 12 : Move 4 to 3
+aaa;ba;bbb;cccc;d;ddd;
+
+STEP 13 : Move 3 to 5
+;aaa;ba;bbb;cccc;dddd;
+
+STEP 14 : Move 4 to 2
+;aaaa;b;bbb;cccc;dddd;
+
+STEP 15 : Move 1 to 4
+;;aaaa;bbbb;cccc;dddd;
+

@@ -1,0 +1,4 @@
+92
+13
+2
+['igac', 'fiah', 'hdfd', 'kkab', 'gjej', 'fhfi', 'bghb', 'gcai', 'kdde', 'ceec', 'jbjk', '', '']

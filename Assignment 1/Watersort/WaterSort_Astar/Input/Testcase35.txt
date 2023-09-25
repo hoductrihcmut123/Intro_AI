@@ -1,0 +1,4 @@
+35
+7
+2
+['ecbd', 'dadc', 'bbaa', 'edea', 'becc', '', '']

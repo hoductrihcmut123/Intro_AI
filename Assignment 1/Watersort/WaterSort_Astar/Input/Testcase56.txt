@@ -1,0 +1,4 @@
+56
+9
+2
+['acdd', 'bccb', 'begf', 'dcae', 'gffb', 'faea', 'dgeg', '', '']

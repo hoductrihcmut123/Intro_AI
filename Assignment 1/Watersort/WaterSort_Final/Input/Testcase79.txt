@@ -1,0 +1,4 @@
+79
+11
+2
+['biie', 'ddaa', 'edfa', 'fhef', 'dhci', 'acce', 'cbgf', 'gihb', 'ghbg', '', '']

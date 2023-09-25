@@ -1,0 +1,4 @@
+42
+8
+2
+['fece', 'eacb', 'cdda', 'bdfa', 'bedb', 'afcf', '', '']

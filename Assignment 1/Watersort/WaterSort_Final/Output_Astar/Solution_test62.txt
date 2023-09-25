@@ -1,0 +1,82 @@
+     -------------------** LEVEL 62 **--------------------
+
+* Algorithm run time : 0.03895258903503418[sec]
+
+STEP 0 : Move 0 to 0
+['fchd', 'begd', 'cbbf', 'heaa', 'fcbd', 'gheg', 'faah', 'cedg', '', '']
+
+STEP 1 : Move 1 to 9
+['fch', 'begd', 'cbbf', 'heaa', 'fcbd', 'gheg', 'faah', 'cedg', 'd', '']
+
+STEP 2 : Move 2 to 9
+['fch', 'beg', 'cbbf', 'heaa', 'fcbd', 'gheg', 'faah', 'cedg', 'dd', '']
+
+STEP 3 : Move 5 to 9
+['fch', 'beg', 'cbbf', 'heaa', 'fcb', 'gheg', 'faah', 'cedg', 'ddd', '']
+
+STEP 4 : Move 6 to 2
+['fch', 'begg', 'cbbf', 'heaa', 'fcb', 'ghe', 'faah', 'cedg', 'ddd', '']
+
+STEP 5 : Move 7 to 1
+['fchh', 'begg', 'cbbf', 'heaa', 'fcb', 'ghe', 'faa', 'cedg', 'ddd', '']
+
+STEP 6 : Move 2 to 10
+['fchh', 'be', 'cbbf', 'heaa', 'fcb', 'ghe', 'faa', 'cedg', 'ddd', 'gg']
+
+STEP 7 : Move 2 to 6
+['fchh', 'b', 'cbbf', 'heaa', 'fcb', 'ghee', 'faa', 'cedg', 'ddd', 'gg']
+
+STEP 8 : Move 5 to 2
+['fchh', 'bb', 'cbbf', 'heaa', 'fc', 'ghee', 'faa', 'cedg', 'ddd', 'gg']
+
+STEP 9 : Move 8 to 10
+['fchh', 'bb', 'cbbf', 'heaa', 'fc', 'ghee', 'faa', 'ced', 'ddd', 'ggg']
+
+STEP 10 : Move 8 to 9
+['fchh', 'bb', 'cbbf', 'heaa', 'fc', 'ghee', 'faa', 'ce', 'dddd', 'ggg']
+
+STEP 11 : Move 6 to 8
+['fchh', 'bb', 'cbbf', 'heaa', 'fc', 'gh', 'faa', 'ceee', 'dddd', 'ggg']
+
+STEP 12 : Move 1 to 6
+['fc', 'bb', 'cbbf', 'heaa', 'fc', 'ghhh', 'faa', 'ceee', 'dddd', 'ggg']
+
+STEP 13 : Move 1 to 5
+['f', 'bb', 'cbbf', 'heaa', 'fcc', 'ghhh', 'faa', 'ceee', 'dddd', 'ggg']
+
+STEP 14 : Move 3 to 1
+['ff', 'bb', 'cbb', 'heaa', 'fcc', 'ghhh', 'faa', 'ceee', 'dddd', 'ggg']
+
+STEP 15 : Move 3 to 2
+['ff', 'bbbb', 'c', 'heaa', 'fcc', 'ghhh', 'faa', 'ceee', 'dddd', 'ggg']
+
+STEP 16 : Move 5 to 3
+['ff', 'bbbb', 'ccc', 'heaa', 'f', 'ghhh', 'faa', 'ceee', 'dddd', 'ggg']
+
+STEP 17 : Move 1 to 5
+['', 'bbbb', 'ccc', 'heaa', 'fff', 'ghhh', 'faa', 'ceee', 'dddd', 'ggg']
+
+STEP 18 : Move 4 to 1
+['aa', 'bbbb', 'ccc', 'he', 'fff', 'ghhh', 'faa', 'ceee', 'dddd', 'ggg']
+
+STEP 19 : Move 7 to 1
+['aaaa', 'bbbb', 'ccc', 'he', 'fff', 'ghhh', 'f', 'ceee', 'dddd', 'ggg']
+
+STEP 20 : Move 5 to 7
+['aaaa', 'bbbb', 'ccc', 'he', '', 'ghhh', 'ffff', 'ceee', 'dddd', 'ggg']
+
+STEP 21 : Move 4 to 5
+['aaaa', 'bbbb', 'ccc', 'h', 'e', 'ghhh', 'ffff', 'ceee', 'dddd', 'ggg']
+
+STEP 22 : Move 6 to 4
+['aaaa', 'bbbb', 'ccc', 'hhhh', 'e', 'g', 'ffff', 'ceee', 'dddd', 'ggg']
+
+STEP 23 : Move 8 to 5
+['aaaa', 'bbbb', 'ccc', 'hhhh', 'eeee', 'g', 'ffff', 'c', 'dddd', 'ggg']
+
+STEP 24 : Move 3 to 8
+['aaaa', 'bbbb', '', 'hhhh', 'eeee', 'g', 'ffff', 'cccc', 'dddd', 'ggg']
+
+STEP 25 : Move 6 to 10
+['aaaa', 'bbbb', '', 'hhhh', 'eeee', '', 'ffff', 'cccc', 'dddd', 'gggg']
+

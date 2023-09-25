@@ -1,0 +1,58 @@
+     -------------------** LEVEL 22 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 5
+;babd;bcba;ca;cc;dadd;
+
+STEP 2 : Move 1 to 6
+a;babd;bcba;c;cc;dadd;
+
+STEP 3 : Move 1 to 5
+;a;babd;bcba;ccc;dadd;
+
+STEP 4 : Move 2 to 1
+a;a;babd;bcb;ccc;dadd;
+
+STEP 5 : Move 1 to 6
+;aa;babd;bcb;ccc;dadd;
+
+STEP 6 : Move 2 to 1
+aa;b;babd;bc;ccc;dadd;
+
+STEP 7 : Move 2 to 5
+aa;b;b;babd;cccc;dadd;
+
+STEP 8 : Move 1 to 2
+;aa;babd;bb;cccc;dadd;
+
+STEP 9 : Move 3 to 1
+aa;babd;bb;cccc;da;dd;
+
+STEP 10 : Move 3 to 6
+aaa;babd;bb;cccc;d;dd;
+
+STEP 11 : Move 1 to 3
+;aaa;babd;bb;cccc;ddd;
+
+STEP 12 : Move 4 to 1
+aaa;bab;bb;cccc;d;ddd;
+
+STEP 13 : Move 1 to 3
+;aaa;bab;bb;cccc;dddd;
+
+STEP 14 : Move 4 to 1
+aaa;b;ba;bb;cccc;dddd;
+
+STEP 15 : Move 1 to 2
+;aaa;ba;bbb;cccc;dddd;
+
+STEP 16 : Move 4 to 1
+a;aaa;b;bbb;cccc;dddd;
+
+STEP 17 : Move 1 to 6
+;aaaa;b;bbb;cccc;dddd;
+
+STEP 18 : Move 2 to 4
+;;aaaa;bbbb;cccc;dddd;
+

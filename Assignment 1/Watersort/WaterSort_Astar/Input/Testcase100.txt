@@ -1,0 +1,4 @@
+100
+14
+2
+['fabh', 'agdd', 'ehlc', 'hgab', 'khij', 'lief', 'ecjl', 'iegi', 'bjkd', 'dkjb', 'ffcg', 'kalc', '', '']

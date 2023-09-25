@@ -1,0 +1,4 @@
+64
+10
+2
+['bceb', 'hhad', 'caeh', 'dffa', 'eafg', 'dfgb', 'ccbg', 'gehd', '', '']

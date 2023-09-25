@@ -1,0 +1,5 @@
+     -------------------** LEVEL 143 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+Couldn not find the answer !

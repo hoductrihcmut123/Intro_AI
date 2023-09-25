@@ -1,0 +1,4 @@
+61
+10
+2
+['gdag', 'efaa', 'cfhc', 'cdce', 'eagd', 'hdhb', 'bhbf', 'fbeg', '', '']

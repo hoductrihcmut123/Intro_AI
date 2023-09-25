@@ -1,0 +1,82 @@
+     -------------------** LEVEL 70 **--------------------
+
+* Algorithm run time : 0.0010023117065429688[sec]
+
+STEP 1 : Move 1 to 10
+;bbbb;ddah;difi;e;ecgg;fcae;gaeg;haf;hhfc;icid;
+
+STEP 2 : Move 1 to 11
+bbbb;ddah;difi;e;ecgg;f;fcae;gaeg;ha;hhfc;icid;
+
+STEP 3 : Move 5 to 10
+bbbb;ddah;difi;ecgg;ee;f;fca;gaeg;ha;hhfc;icid;
+
+STEP 4 : Move 5 to 1
+bbbb;ddah;difi;ecgg;ee;f;fc;gaeg;haa;hhfc;icid;
+
+STEP 5 : Move 6 to 5
+bbbb;ddah;difi;ecgg;ee;f;fcc;gaeg;haa;hhf;icid;
+
+STEP 6 : Move 6 to 11
+bbbb;ddah;difi;ecgg;ee;fcc;ff;gaeg;haa;hh;icid;
+
+STEP 7 : Move 9 to 6
+bbbb;dda;difi;ecgg;ee;fcc;ff;gaeg;haa;hhh;icid;
+
+STEP 8 : Move 9 to 1
+bbbb;dd;difi;ecgg;ee;fcc;ff;gaeg;haaa;hhh;icid;
+
+STEP 9 : Move 4 to 9
+bbbb;ddd;difi;ecgg;ee;fcc;ff;gaeg;haaa;hhh;ici;
+
+STEP 10 : Move 8 to 4
+bbbb;ddd;dif;ecgg;ee;fcc;ff;gaeg;haaa;hhh;icii;
+
+STEP 11 : Move 8 to 11
+bbbb;ddd;di;ecgg;ee;fcc;fff;gaeg;haaa;hhh;icii;
+
+STEP 12 : Move 4 to 8
+bbbb;ddd;diii;ecgg;ee;fcc;fff;gaeg;haaa;hhh;ic;
+
+STEP 13 : Move 4 to 5
+bbbb;ddd;diii;ecgg;ee;fccc;fff;gaeg;haaa;hhh;i;
+
+STEP 14 : Move 8 to 4
+bbbb;d;ddd;ecgg;ee;fccc;fff;gaeg;haaa;hhh;iiii;
+
+STEP 15 : Move 8 to 9
+;bbbb;dddd;ecgg;ee;fccc;fff;gaeg;haaa;hhh;iiii;
+
+STEP 16 : Move 1 to 8
+aaa;bbbb;dddd;ecgg;ee;fccc;fff;gaeg;h;hhh;iiii;
+
+STEP 17 : Move 1 to 6
+;aaa;bbbb;dddd;ecgg;ee;fccc;fff;gaeg;hhhh;iiii;
+
+STEP 18 : Move 3 to 1
+aaa;bbbb;dddd;ecgg;ee;fccc;fff;g;gae;hhhh;iiii;
+
+STEP 19 : Move 3 to 10
+aaa;bbbb;dddd;ecgg;eee;fccc;fff;g;ga;hhhh;iiii;
+
+STEP 20 : Move 3 to 8
+aaaa;bbbb;dddd;ecgg;eee;fccc;fff;g;g;hhhh;iiii;
+
+STEP 21 : Move 1 to 3
+;aaaa;bbbb;dddd;ecgg;eee;fccc;fff;gg;hhhh;iiii;
+
+STEP 22 : Move 5 to 1
+aaaa;bbbb;ccc;dddd;ecgg;eee;f;fff;gg;hhhh;iiii;
+
+STEP 23 : Move 5 to 11
+;aaaa;bbbb;ccc;dddd;ecgg;eee;ffff;gg;hhhh;iiii;
+
+STEP 24 : Move 7 to 3
+;aaaa;bbbb;ccc;dddd;ec;eee;ffff;gggg;hhhh;iiii;
+
+STEP 25 : Move 7 to 1
+;aaaa;bbbb;cccc;dddd;e;eee;ffff;gggg;hhhh;iiii;
+
+STEP 26 : Move 7 to 10
+;;aaaa;bbbb;cccc;dddd;eeee;ffff;gggg;hhhh;iiii;
+

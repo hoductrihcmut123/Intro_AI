@@ -1,0 +1,49 @@
+     -------------------** LEVEL 26 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 5
+;a;adbc;bbb;daca;dccd;
+
+STEP 2 : Move 2 to 6
+a;adbc;bbb;d;daca;dcc;
+
+STEP 3 : Move 3 to 2
+a;adb;bbb;d;daca;dccc;
+
+STEP 4 : Move 3 to 1
+a;ad;bbbb;d;daca;dccc;
+
+STEP 5 : Move 3 to 6
+a;a;bbbb;daca;dccc;dd;
+
+STEP 6 : Move 3 to 5
+;aa;bbbb;daca;dccc;dd;
+
+STEP 7 : Move 2 to 3
+aa;bbbb;ccc;d;daca;dd;
+
+STEP 8 : Move 2 to 6
+;aa;bbbb;ccc;daca;ddd;
+
+STEP 9 : Move 4 to 2
+a;aa;bbbb;ccc;dac;ddd;
+
+STEP 10 : Move 2 to 5
+;aaa;bbbb;ccc;dac;ddd;
+
+STEP 11 : Move 4 to 2
+aaa;bbbb;c;ccc;da;ddd;
+
+STEP 12 : Move 2 to 3
+;aaa;bbbb;cccc;da;ddd;
+
+STEP 13 : Move 4 to 2
+a;aaa;bbbb;cccc;d;ddd;
+
+STEP 14 : Move 2 to 5
+;aaaa;bbbb;cccc;d;ddd;
+
+STEP 15 : Move 4 to 6
+;;aaaa;bbbb;cccc;dddd;
+

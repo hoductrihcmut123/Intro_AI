@@ -1,0 +1,61 @@
+     -------------------** LEVEL 40 **--------------------
+
+* Algorithm run time : 0.007984161376953125[sec]
+
+STEP 0 : Move 0 to 0
+['abde', 'decf', 'eaff', 'dccb', 'faab', 'bdec', '', '']
+
+STEP 1 : Move 1 to 7
+['abd', 'decf', 'eaff', 'dccb', 'faab', 'bdec', 'e', '']
+
+STEP 2 : Move 1 to 8
+['ab', 'decf', 'eaff', 'dccb', 'faab', 'bdec', 'e', 'd']
+
+STEP 3 : Move 4 to 1
+['abb', 'decf', 'eaff', 'dcc', 'faab', 'bdec', 'e', 'd']
+
+STEP 4 : Move 5 to 1
+['abbb', 'decf', 'eaff', 'dcc', 'faa', 'bdec', 'e', 'd']
+
+STEP 5 : Move 6 to 4
+['abbb', 'decf', 'eaff', 'dccc', 'faa', 'bde', 'e', 'd']
+
+STEP 6 : Move 6 to 7
+['abbb', 'decf', 'eaff', 'dccc', 'faa', 'bd', 'ee', 'd']
+
+STEP 7 : Move 6 to 8
+['abbb', 'decf', 'eaff', 'dccc', 'faa', 'b', 'ee', 'dd']
+
+STEP 8 : Move 1 to 6
+['a', 'decf', 'eaff', 'dccc', 'faa', 'bbbb', 'ee', 'dd']
+
+STEP 9 : Move 5 to 1
+['aaa', 'decf', 'eaff', 'dccc', 'f', 'bbbb', 'ee', 'dd']
+
+STEP 10 : Move 2 to 5
+['aaa', 'dec', 'eaff', 'dccc', 'ff', 'bbbb', 'ee', 'dd']
+
+STEP 11 : Move 3 to 5
+['aaa', 'dec', 'ea', 'dccc', 'ffff', 'bbbb', 'ee', 'dd']
+
+STEP 12 : Move 3 to 1
+['aaaa', 'dec', 'e', 'dccc', 'ffff', 'bbbb', 'ee', 'dd']
+
+STEP 13 : Move 3 to 7
+['aaaa', 'dec', '', 'dccc', 'ffff', 'bbbb', 'eee', 'dd']
+
+STEP 14 : Move 2 to 3
+['aaaa', 'de', 'c', 'dccc', 'ffff', 'bbbb', 'eee', 'dd']
+
+STEP 15 : Move 2 to 7
+['aaaa', 'd', 'c', 'dccc', 'ffff', 'bbbb', 'eeee', 'dd']
+
+STEP 16 : Move 4 to 3
+['aaaa', 'd', 'cccc', 'd', 'ffff', 'bbbb', 'eeee', 'dd']
+
+STEP 17 : Move 2 to 4
+['aaaa', '', 'cccc', 'dd', 'ffff', 'bbbb', 'eeee', 'dd']
+
+STEP 18 : Move 4 to 8
+['aaaa', '', 'cccc', '', 'ffff', 'bbbb', 'eeee', 'dddd']
+

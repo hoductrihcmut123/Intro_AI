@@ -1,0 +1,4 @@
+55
+9
+2
+['aegc', 'ggcb', 'faff', 'fabd', 'ceeg', 'adeb', 'dcbd', '', '']

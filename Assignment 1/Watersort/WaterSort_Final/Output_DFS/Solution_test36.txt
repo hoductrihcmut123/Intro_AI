@@ -1,0 +1,49 @@
+     -------------------** LEVEL 36 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 6
+;aadb;aaec;bbde;c;cebc;dde;
+
+STEP 2 : Move 1 to 7
+aadb;aaec;bbde;c;cebc;dd;e;
+
+STEP 3 : Move 2 to 7
+aadb;aaec;bbd;c;cebc;dd;ee;
+
+STEP 4 : Move 2 to 1
+aadb;aaec;bb;c;cebc;ddd;ee;
+
+STEP 5 : Move 3 to 6
+aadb;aaec;bb;cc;ceb;ddd;ee;
+
+STEP 6 : Move 3 to 2
+aadb;aaec;bbb;cc;ce;ddd;ee;
+
+STEP 7 : Move 3 to 7
+aadb;aaec;bbb;c;cc;ddd;eee;
+
+STEP 8 : Move 3 to 6
+;aadb;aaec;bbb;ccc;ddd;eee;
+
+STEP 9 : Move 4 to 2
+;aad;aaec;bbbb;ccc;ddd;eee;
+
+STEP 10 : Move 4 to 1
+;aa;aaec;bbbb;ccc;dddd;eee;
+
+STEP 11 : Move 5 to 3
+aa;aae;bbbb;c;ccc;dddd;eee;
+
+STEP 12 : Move 3 to 6
+;aa;aae;bbbb;cccc;dddd;eee;
+
+STEP 13 : Move 5 to 3
+aa;aa;bbbb;cccc;dddd;e;eee;
+
+STEP 14 : Move 3 to 7
+;aa;aa;bbbb;cccc;dddd;eeee;
+
+STEP 15 : Move 4 to 5
+;;aaaa;bbbb;cccc;dddd;eeee;
+

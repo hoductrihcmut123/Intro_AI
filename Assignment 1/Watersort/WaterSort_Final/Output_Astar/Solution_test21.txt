@@ -1,0 +1,43 @@
+     -------------------** LEVEL 21 **--------------------
+
+* Algorithm run time : 0.006979703903198242[sec]
+
+STEP 0 : Move 0 to 0
+['bdbd', 'acac', 'bcbd', 'caad', '', '']
+
+STEP 1 : Move 1 to 5
+['bdb', 'acac', 'bcbd', 'caad', 'd', '']
+
+STEP 2 : Move 3 to 5
+['bdb', 'acac', 'bcb', 'caad', 'dd', '']
+
+STEP 3 : Move 1 to 3
+['bd', 'acac', 'bcbb', 'caad', 'dd', '']
+
+STEP 4 : Move 1 to 5
+['b', 'acac', 'bcbb', 'caad', 'ddd', '']
+
+STEP 5 : Move 3 to 1
+['bbb', 'acac', 'bc', 'caad', 'ddd', '']
+
+STEP 6 : Move 2 to 3
+['bbb', 'aca', 'bcc', 'caad', 'ddd', '']
+
+STEP 7 : Move 4 to 5
+['bbb', 'aca', 'bcc', 'caa', 'dddd', '']
+
+STEP 8 : Move 2 to 4
+['bbb', 'ac', 'bcc', 'caaa', 'dddd', '']
+
+STEP 9 : Move 2 to 3
+['bbb', 'a', 'bccc', 'caaa', 'dddd', '']
+
+STEP 10 : Move 4 to 2
+['bbb', 'aaaa', 'bccc', 'c', 'dddd', '']
+
+STEP 11 : Move 3 to 4
+['bbb', 'aaaa', 'b', 'cccc', 'dddd', '']
+
+STEP 12 : Move 1 to 3
+['', 'aaaa', 'bbbb', 'cccc', 'dddd', '']
+

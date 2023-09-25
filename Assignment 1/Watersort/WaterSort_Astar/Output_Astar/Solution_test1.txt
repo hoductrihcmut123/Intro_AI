@@ -1,0 +1,22 @@
+     -------------------** LEVEL 1 **--------------------
+
+* Algorithm run time : 0.0009975433349609375[sec]
+
+STEP 0 : Move 0 to 0
+['abaa', 'bbab', '']
+
+STEP 1 : Move 1 to 3
+['ab', 'bbab', 'aa']
+
+STEP 2 : Move 2 to 1
+['abb', 'bba', 'aa']
+
+STEP 3 : Move 2 to 3
+['abb', 'bb', 'aaa']
+
+STEP 4 : Move 1 to 2
+['a', 'bbbb', 'aaa']
+
+STEP 5 : Move 1 to 3
+['', 'bbbb', 'aaaa']
+

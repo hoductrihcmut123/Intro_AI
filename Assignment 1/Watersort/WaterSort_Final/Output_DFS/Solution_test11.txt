@@ -1,0 +1,37 @@
+     -------------------** LEVEL 11 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 4
+;b;bba;bcaa;ccac;
+
+STEP 2 : Move 1 to 5
+a;b;bb;bcaa;ccac;
+
+STEP 3 : Move 1 to 4
+;a;bbb;bcaa;ccac;
+
+STEP 4 : Move 2 to 1
+a;aa;bbb;bc;ccac;
+
+STEP 5 : Move 1 to 5
+;aaa;bbb;bc;ccac;
+
+STEP 6 : Move 2 to 1
+aaa;b;bbb;c;ccac;
+
+STEP 7 : Move 2 to 4
+;aaa;bbbb;c;ccac;
+
+STEP 8 : Move 3 to 1
+;aaa;bbbb;cc;cca;
+
+STEP 9 : Move 3 to 2
+a;aaa;bbbb;cc;cc;
+
+STEP 10 : Move 1 to 3
+;a;aaa;bbbb;cccc;
+
+STEP 11 : Move 2 to 5
+;;aaaa;bbbb;cccc;
+

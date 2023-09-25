@@ -1,0 +1,4 @@
+68
+10
+2
+['bfhe', 'gfha', 'bgcg', 'hfca', 'bfbe', 'hcad', 'dedg', 'ecad', '', '']

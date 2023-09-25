@@ -1,0 +1,4 @@
+50
+9
+2
+['cbcg', 'gacd', 'fecf', 'aegb', 'edae', 'bfdf', 'bdag', '', '']

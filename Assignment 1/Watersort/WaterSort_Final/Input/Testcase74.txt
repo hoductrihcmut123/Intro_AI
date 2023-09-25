@@ -1,0 +1,4 @@
+74
+11
+2
+['cbad', 'eeig', 'fgeg', 'bccf', 'aihh', 'ffeg', 'ibda', 'iabd', 'chdh', '', '']

@@ -1,0 +1,4 @@
+52
+9
+2
+['dgfc', 'daab', 'fedc', 'egbe', 'gfbd', 'cbga', 'fcae', '', '']

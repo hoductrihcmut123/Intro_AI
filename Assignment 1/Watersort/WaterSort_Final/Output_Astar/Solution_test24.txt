@@ -1,0 +1,43 @@
+     -------------------** LEVEL 24 **--------------------
+
+* Algorithm run time : 0.00897073745727539[sec]
+
+STEP 0 : Move 0 to 0
+['ddaa', 'bcab', 'bcdc', 'abcd', '', '']
+
+STEP 1 : Move 1 to 5
+['dd', 'bcab', 'bcdc', 'abcd', 'aa', '']
+
+STEP 2 : Move 4 to 1
+['ddd', 'bcab', 'bcdc', 'abc', 'aa', '']
+
+STEP 3 : Move 3 to 4
+['ddd', 'bcab', 'bcd', 'abcc', 'aa', '']
+
+STEP 4 : Move 3 to 1
+['dddd', 'bcab', 'bc', 'abcc', 'aa', '']
+
+STEP 5 : Move 4 to 3
+['dddd', 'bcab', 'bccc', 'ab', 'aa', '']
+
+STEP 6 : Move 2 to 4
+['dddd', 'bca', 'bccc', 'abb', 'aa', '']
+
+STEP 7 : Move 2 to 5
+['dddd', 'bc', 'bccc', 'abb', 'aaa', '']
+
+STEP 8 : Move 2 to 6
+['dddd', 'b', 'bccc', 'abb', 'aaa', 'c']
+
+STEP 9 : Move 3 to 6
+['dddd', 'b', 'b', 'abb', 'aaa', 'cccc']
+
+STEP 10 : Move 4 to 2
+['dddd', 'bbb', 'b', 'a', 'aaa', 'cccc']
+
+STEP 11 : Move 2 to 3
+['dddd', '', 'bbbb', 'a', 'aaa', 'cccc']
+
+STEP 12 : Move 4 to 5
+['dddd', '', 'bbbb', '', 'aaaa', 'cccc']
+

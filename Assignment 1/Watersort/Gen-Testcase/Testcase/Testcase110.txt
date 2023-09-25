@@ -1,0 +1,4 @@
+110
+15
+2
+['kcdl', 'mhgd', 'fafd', 'bblh', 'mjai', 'mkgm', 'llhj', 'ecge', 'ekbd', 'geih', 'jbfk', 'ifaj', 'cica', '', '']

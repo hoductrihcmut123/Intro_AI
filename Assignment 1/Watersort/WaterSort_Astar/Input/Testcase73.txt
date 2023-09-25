@@ -1,0 +1,4 @@
+73
+11
+2
+['badh', 'fhae', 'abgc', 'gdfi', 'aeeh', 'ddcb', 'fcgg', 'efhi', 'biic', '', '']

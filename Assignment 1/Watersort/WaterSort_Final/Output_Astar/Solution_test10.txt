@@ -1,0 +1,28 @@
+     -------------------** LEVEL 10 **--------------------
+
+* Algorithm run time : 0.0020294189453125[sec]
+
+STEP 0 : Move 0 to 0
+['aaab', 'bccc', 'babc', '', '']
+
+STEP 1 : Move 1 to 4
+['aaa', 'bccc', 'babc', 'b', '']
+
+STEP 2 : Move 2 to 5
+['aaa', 'b', 'babc', 'b', 'ccc']
+
+STEP 3 : Move 3 to 5
+['aaa', 'b', 'bab', 'b', 'cccc']
+
+STEP 4 : Move 3 to 2
+['aaa', 'bb', 'ba', 'b', 'cccc']
+
+STEP 5 : Move 3 to 1
+['aaaa', 'bb', 'b', 'b', 'cccc']
+
+STEP 6 : Move 2 to 3
+['aaaa', '', 'bbb', 'b', 'cccc']
+
+STEP 7 : Move 3 to 4
+['aaaa', '', '', 'bbbb', 'cccc']
+

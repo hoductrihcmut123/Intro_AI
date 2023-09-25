@@ -1,0 +1,40 @@
+     -------------------** LEVEL 26 **--------------------
+
+* Algorithm run time : 0.007975578308105469[sec]
+
+STEP 0 : Move 0 to 0
+['bbba', 'dccd', 'adbc', 'daca', '', '']
+
+STEP 1 : Move 1 to 5
+['bbb', 'dccd', 'adbc', 'daca', 'a', '']
+
+STEP 2 : Move 4 to 5
+['bbb', 'dccd', 'adbc', 'dac', 'aa', '']
+
+STEP 3 : Move 3 to 4
+['bbb', 'dccd', 'adb', 'dacc', 'aa', '']
+
+STEP 4 : Move 3 to 1
+['bbbb', 'dccd', 'ad', 'dacc', 'aa', '']
+
+STEP 5 : Move 2 to 3
+['bbbb', 'dcc', 'add', 'dacc', 'aa', '']
+
+STEP 6 : Move 2 to 6
+['bbbb', 'd', 'add', 'dacc', 'aa', 'cc']
+
+STEP 7 : Move 3 to 2
+['bbbb', 'ddd', 'a', 'dacc', 'aa', 'cc']
+
+STEP 8 : Move 4 to 6
+['bbbb', 'ddd', 'a', 'da', 'aa', 'cccc']
+
+STEP 9 : Move 4 to 3
+['bbbb', 'ddd', 'aa', 'd', 'aa', 'cccc']
+
+STEP 10 : Move 2 to 4
+['bbbb', '', 'aa', 'dddd', 'aa', 'cccc']
+
+STEP 11 : Move 3 to 5
+['bbbb', '', '', 'dddd', 'aaaa', 'cccc']
+

@@ -1,0 +1,64 @@
+     -------------------** LEVEL 45 **--------------------
+
+* Algorithm run time : 0.01396036148071289[sec]
+
+STEP 0 : Move 0 to 0
+['bace', 'eddf', 'afed', 'feab', 'cdcf', 'acbb', '', '']
+
+STEP 1 : Move 1 to 7
+['bac', 'eddf', 'afed', 'feab', 'cdcf', 'acbb', 'e', '']
+
+STEP 2 : Move 2 to 8
+['bac', 'edd', 'afed', 'feab', 'cdcf', 'acbb', 'e', 'f']
+
+STEP 3 : Move 3 to 2
+['bac', 'eddd', 'afe', 'feab', 'cdcf', 'acbb', 'e', 'f']
+
+STEP 4 : Move 3 to 7
+['bac', 'eddd', 'af', 'feab', 'cdcf', 'acbb', 'ee', 'f']
+
+STEP 5 : Move 3 to 8
+['bac', 'eddd', 'a', 'feab', 'cdcf', 'acbb', 'ee', 'ff']
+
+STEP 6 : Move 5 to 8
+['bac', 'eddd', 'a', 'feab', 'cdc', 'acbb', 'ee', 'fff']
+
+STEP 7 : Move 1 to 5
+['ba', 'eddd', 'a', 'feab', 'cdcc', 'acbb', 'ee', 'fff']
+
+STEP 8 : Move 1 to 3
+['b', 'eddd', 'aa', 'feab', 'cdcc', 'acbb', 'ee', 'fff']
+
+STEP 9 : Move 4 to 1
+['bb', 'eddd', 'aa', 'fea', 'cdcc', 'acbb', 'ee', 'fff']
+
+STEP 10 : Move 4 to 3
+['bb', 'eddd', 'aaa', 'fe', 'cdcc', 'acbb', 'ee', 'fff']
+
+STEP 11 : Move 4 to 7
+['bb', 'eddd', 'aaa', 'f', 'cdcc', 'acbb', 'eee', 'fff']
+
+STEP 12 : Move 6 to 1
+['bbbb', 'eddd', 'aaa', 'f', 'cdcc', 'ac', 'eee', 'fff']
+
+STEP 13 : Move 5 to 6
+['bbbb', 'eddd', 'aaa', 'f', 'cd', 'accc', 'eee', 'fff']
+
+STEP 14 : Move 4 to 8
+['bbbb', 'eddd', 'aaa', '', 'cd', 'accc', 'eee', 'ffff']
+
+STEP 15 : Move 2 to 4
+['bbbb', 'e', 'aaa', 'ddd', 'cd', 'accc', 'eee', 'ffff']
+
+STEP 16 : Move 5 to 4
+['bbbb', 'e', 'aaa', 'dddd', 'c', 'accc', 'eee', 'ffff']
+
+STEP 17 : Move 6 to 5
+['bbbb', 'e', 'aaa', 'dddd', 'cccc', 'a', 'eee', 'ffff']
+
+STEP 18 : Move 2 to 7
+['bbbb', '', 'aaa', 'dddd', 'cccc', 'a', 'eeee', 'ffff']
+
+STEP 19 : Move 3 to 6
+['bbbb', '', '', 'dddd', 'cccc', 'aaaa', 'eeee', 'ffff']
+

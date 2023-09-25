@@ -1,0 +1,4 @@
+49
+8
+2
+['afcf', 'bcba', 'edde', 'cbbf', 'dcda', 'eeaf', '', '']

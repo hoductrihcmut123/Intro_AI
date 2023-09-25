@@ -1,0 +1,4 @@
+76
+11
+2
+['efde', 'fdhi', 'biba', 'hhgg', 'gicf', 'chca', 'iafd', 'bced', 'gbea', '', '']

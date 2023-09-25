@@ -1,0 +1,88 @@
+     -------------------** LEVEL 69 **--------------------
+
+* Algorithm run time : 0.0009958744049072266[sec]
+
+STEP 1 : Move 1 to 9
+;bdgb;c;dfed;dgah;eahg;eeh;fccf;gafb;habc;
+
+STEP 2 : Move 1 to 10
+bdgb;c;dfed;dgah;eahg;ee;fccf;gafb;h;habc;
+
+STEP 3 : Move 4 to 10
+bdgb;c;dfed;dga;eahg;ee;fccf;gafb;habc;hh;
+
+STEP 4 : Move 5 to 9
+bdgb;cc;dfed;dga;eahg;ee;fccf;gafb;hab;hh;
+
+STEP 5 : Move 6 to 5
+bdg;cc;dfed;dga;eahg;ee;fccf;gafb;habb;hh;
+
+STEP 6 : Move 8 to 6
+bdgg;cc;dfed;dga;eah;ee;fccf;gafb;habb;hh;
+
+STEP 7 : Move 8 to 10
+bdgg;cc;dfed;dga;ea;ee;fccf;gafb;habb;hhh;
+
+STEP 8 : Move 4 to 8
+bdgg;cc;dfed;dg;eaa;ee;fccf;gafb;habb;hhh;
+
+STEP 9 : Move 6 to 4
+bd;cc;dfed;dggg;eaa;ee;fccf;gafb;habb;hhh;
+
+STEP 10 : Move 2 to 6
+bdd;cc;dfe;dggg;eaa;ee;fccf;gafb;habb;hhh;
+
+STEP 11 : Move 2 to 1
+bdd;cc;df;dggg;eaa;eee;fccf;gafb;habb;hhh;
+
+STEP 12 : Move 3 to 2
+bdd;cc;dff;dggg;eaa;eee;fcc;gafb;habb;hhh;
+
+STEP 13 : Move 3 to 9
+bdd;cccc;dff;dggg;eaa;eee;f;gafb;habb;hhh;
+
+STEP 14 : Move 2 to 3
+bdd;cccc;d;dggg;eaa;eee;fff;gafb;habb;hhh;
+
+STEP 15 : Move 2 to 6
+;bddd;cccc;dggg;eaa;eee;fff;gafb;habb;hhh;
+
+STEP 16 : Move 4 to 2
+bddd;cccc;d;eaa;eee;fff;gafb;ggg;habb;hhh;
+
+STEP 17 : Move 6 to 4
+b;cccc;dddd;eaa;eee;fff;gafb;ggg;habb;hhh;
+
+STEP 18 : Move 5 to 6
+bbb;cccc;dddd;eaa;eee;fff;gafb;ggg;ha;hhh;
+
+STEP 19 : Move 5 to 8
+bbb;cccc;dddd;eaaa;eee;fff;gafb;ggg;h;hhh;
+
+STEP 20 : Move 5 to 10
+;bbb;cccc;dddd;eaaa;eee;fff;gafb;ggg;hhhh;
+
+STEP 21 : Move 7 to 5
+b;bbb;cccc;dddd;eaaa;eee;fff;gaf;ggg;hhhh;
+
+STEP 22 : Move 5 to 6
+;bbbb;cccc;dddd;eaaa;eee;fff;gaf;ggg;hhhh;
+
+STEP 23 : Move 7 to 3
+;bbbb;cccc;dddd;eaaa;eee;ffff;ga;ggg;hhhh;
+
+STEP 24 : Move 7 to 5
+a;bbbb;cccc;dddd;eaaa;eee;ffff;g;ggg;hhhh;
+
+STEP 25 : Move 2 to 7
+;a;bbbb;cccc;dddd;eaaa;eee;ffff;gggg;hhhh;
+
+STEP 26 : Move 8 to 2
+a;aaa;bbbb;cccc;dddd;e;eee;ffff;gggg;hhhh;
+
+STEP 27 : Move 1 to 8
+;a;aaa;bbbb;cccc;dddd;eeee;ffff;gggg;hhhh;
+
+STEP 28 : Move 2 to 5
+;;aaaa;bbbb;cccc;dddd;eeee;ffff;gggg;hhhh;
+

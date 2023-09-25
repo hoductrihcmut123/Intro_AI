@@ -1,0 +1,73 @@
+     -------------------** LEVEL 57 **--------------------
+
+* Algorithm run time : 0.0009953975677490234[sec]
+
+STEP 1 : Move 1 to 8
+;caga;cbb;deea;f;fcfa;fgdd;gdbe;gebc;
+
+STEP 2 : Move 2 to 9
+a;cag;cbb;deea;f;fcfa;fgdd;gdbe;gebc;
+
+STEP 3 : Move 4 to 9
+aa;cag;cbb;dee;f;fcfa;fgdd;gdbe;gebc;
+
+STEP 4 : Move 5 to 9
+aaa;cag;cbb;dee;f;fcf;fgdd;gdbe;gebc;
+
+STEP 5 : Move 5 to 8
+aaa;cag;cbb;dee;fc;ff;fgdd;gdbe;gebc;
+
+STEP 6 : Move 3 to 5
+aaa;cag;cbb;dee;fcc;ff;fgdd;gdbe;geb;
+
+STEP 7 : Move 3 to 1
+aaa;cag;cbbb;dee;fcc;ff;fgdd;gdbe;ge;
+
+STEP 8 : Move 3 to 4
+aaa;cag;cbbb;deee;fcc;ff;fgdd;g;gdbe;
+
+STEP 9 : Move 2 to 3
+aaa;ca;cbbb;deee;fcc;ff;fgdd;gdbe;gg;
+
+STEP 10 : Move 2 to 9
+aaaa;c;cbbb;deee;fcc;ff;fgdd;gdbe;gg;
+
+STEP 11 : Move 2 to 5
+;aaaa;cbbb;deee;fccc;ff;fgdd;gdbe;gg;
+
+STEP 12 : Move 1 to 2
+aaaa;bbb;c;deee;fccc;ff;fgdd;gdbe;gg;
+
+STEP 13 : Move 5 to 1
+aaaa;bbb;cccc;deee;f;ff;fgdd;gdbe;gg;
+
+STEP 14 : Move 5 to 8
+;aaaa;bbb;cccc;deee;fff;fgdd;gdbe;gg;
+
+STEP 15 : Move 4 to 5
+aaaa;bbb;cccc;d;eee;fff;fgdd;gdbe;gg;
+
+STEP 16 : Move 6 to 4
+aaaa;bbb;cccc;ddd;eee;fff;fg;gdbe;gg;
+
+STEP 17 : Move 3 to 6
+;aaaa;bbb;cccc;ddd;eee;fff;fggg;gdbe;
+
+STEP 18 : Move 6 to 3
+aaaa;bbb;cccc;ddd;eee;f;fff;gdbe;ggg;
+
+STEP 19 : Move 6 to 8
+;aaaa;bbb;cccc;ddd;eee;ffff;gdbe;ggg;
+
+STEP 20 : Move 7 to 5
+;aaaa;bbb;cccc;ddd;eeee;ffff;gdb;ggg;
+
+STEP 21 : Move 7 to 2
+;aaaa;bbbb;cccc;ddd;eeee;ffff;gd;ggg;
+
+STEP 22 : Move 7 to 4
+;aaaa;bbbb;cccc;dddd;eeee;ffff;g;ggg;
+
+STEP 23 : Move 3 to 7
+;;aaaa;bbbb;cccc;dddd;eeee;ffff;gggg;
+

@@ -1,0 +1,28 @@
+     -------------------** LEVEL 12 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 4
+;aabb;b;cca;ccba;
+
+STEP 2 : Move 1 to 5
+a;aabb;b;cc;ccba;
+
+STEP 3 : Move 2 to 5
+aa;aabb;b;cc;ccb;
+
+STEP 4 : Move 2 to 4
+aa;aabb;bb;cc;cc;
+
+STEP 5 : Move 1 to 2
+;aa;aabb;bb;cccc;
+
+STEP 6 : Move 3 to 1
+aa;aa;bb;bb;cccc;
+
+STEP 7 : Move 1 to 4
+;aa;aa;bbbb;cccc;
+
+STEP 8 : Move 3 to 5
+;;aaaa;bbbb;cccc;
+

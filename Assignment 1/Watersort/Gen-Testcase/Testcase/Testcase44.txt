@@ -1,0 +1,4 @@
+44
+8
+2
+['afbf', 'cfdc', 'cfec', 'abda', 'bdee', 'dbea', '', '']

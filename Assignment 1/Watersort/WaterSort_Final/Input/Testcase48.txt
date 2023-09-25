@@ -1,0 +1,4 @@
+48
+8
+2
+['fade', 'caae', 'cffb', 'ebdc', 'caeb', 'fdbd', '', '']

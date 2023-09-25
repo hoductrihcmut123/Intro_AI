@@ -1,0 +1,4 @@
+75
+11
+2
+['fghb', 'ccga', 'fcda', 'cida', 'dfhi', 'bfgg', 'eebd', 'biei', 'ahhe', '', '']

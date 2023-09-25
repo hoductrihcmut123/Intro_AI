@@ -1,0 +1,4 @@
+53
+9
+2
+['ffed', 'dgca', 'fdab', 'gece', 'accb', 'abgb', 'fdeg', '', '']

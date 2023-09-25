@@ -1,0 +1,31 @@
+     -------------------** LEVEL 19 **--------------------
+
+* Algorithm run time : 0.0009968280792236328[sec]
+
+STEP 1 : Move 1 to 4
+;ab;abcc;bbaa;cc;
+
+STEP 2 : Move 1 to 5
+a;abcc;b;bbaa;cc;
+
+STEP 3 : Move 2 to 1
+aaa;abcc;b;bb;cc;
+
+STEP 4 : Move 2 to 5
+;aaa;abcc;bbb;cc;
+
+STEP 5 : Move 3 to 2
+aaa;ab;bbb;cc;cc;
+
+STEP 6 : Move 2 to 4
+;aaa;ab;bbb;cccc;
+
+STEP 7 : Move 3 to 2
+a;aaa;b;bbb;cccc;
+
+STEP 8 : Move 1 to 3
+;aaaa;b;bbb;cccc;
+
+STEP 9 : Move 2 to 5
+;;aaaa;bbbb;cccc;
+

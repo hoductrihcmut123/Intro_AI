@@ -1,0 +1,82 @@
+     -------------------** LEVEL 56 **--------------------
+
+* Algorithm run time : 0.0019953250885009766[sec]
+
+STEP 1 : Move 1 to 8
+;ac;bccb;begf;dcae;dd;dgeg;faea;gffb;
+
+STEP 2 : Move 1 to 9
+a;bccb;begf;c;dcae;dd;dgeg;faea;gffb;
+
+STEP 3 : Move 6 to 1
+aa;bccb;begf;c;dcae;dd;dgeg;fae;gffb;
+
+STEP 4 : Move 4 to 6
+aa;bccb;begf;c;dca;dd;dgeg;faee;gffb;
+
+STEP 5 : Move 4 to 1
+aaa;bccb;begf;c;dc;dd;dgeg;faee;gffb;
+
+STEP 6 : Move 4 to 9
+aaa;bccb;begf;cc;d;dd;dgeg;faee;gffb;
+
+STEP 7 : Move 4 to 8
+;aaa;bccb;begf;cc;ddd;dgeg;faee;gffb;
+
+STEP 8 : Move 2 to 4
+aaa;b;bcc;begf;cc;ddd;dgeg;faee;gffb;
+
+STEP 9 : Move 2 to 9
+aaa;b;b;begf;cccc;ddd;dgeg;faee;gffb;
+
+STEP 10 : Move 2 to 4
+;aaa;bb;begf;cccc;ddd;dgeg;faee;gffb;
+
+STEP 11 : Move 3 to 2
+aaa;bb;beg;cccc;ddd;dgeg;f;faee;gffb;
+
+STEP 12 : Move 5 to 4
+aaa;bbb;beg;cccc;ddd;dgeg;f;faee;gff;
+
+STEP 13 : Move 2 to 5
+;aaa;bbb;beg;cccc;ddd;dgeg;faee;gfff;
+
+STEP 14 : Move 3 to 2
+aaa;bbb;be;cccc;ddd;dgeg;faee;g;gfff;
+
+STEP 15 : Move 6 to 3
+aaa;bbb;beee;cccc;ddd;dgeg;fa;g;gfff;
+
+STEP 16 : Move 6 to 1
+aaaa;bbb;beee;cccc;ddd;dgeg;f;g;gfff;
+
+STEP 17 : Move 5 to 6
+aaaa;bbb;beee;cccc;ddd;dgeg;ffff;g;g;
+
+STEP 18 : Move 2 to 5
+;aaaa;bbb;beee;cccc;ddd;dgeg;ffff;gg;
+
+STEP 19 : Move 3 to 2
+aaaa;b;bbb;cccc;ddd;dgeg;eee;ffff;gg;
+
+STEP 20 : Move 3 to 4
+;aaaa;bbbb;cccc;ddd;dgeg;eee;ffff;gg;
+
+STEP 21 : Move 7 to 3
+aaaa;bbbb;cccc;ddd;dge;eee;ffff;g;gg;
+
+STEP 22 : Move 3 to 5
+;aaaa;bbbb;cccc;ddd;dge;eee;ffff;ggg;
+
+STEP 23 : Move 7 to 2
+;aaaa;bbbb;cccc;ddd;dg;eeee;ffff;ggg;
+
+STEP 24 : Move 7 to 3
+aaaa;bbbb;cccc;d;ddd;eeee;ffff;g;ggg;
+
+STEP 25 : Move 3 to 5
+;aaaa;bbbb;cccc;d;ddd;eeee;ffff;gggg;
+
+STEP 26 : Move 7 to 8
+;;aaaa;bbbb;cccc;dddd;eeee;ffff;gggg;
+

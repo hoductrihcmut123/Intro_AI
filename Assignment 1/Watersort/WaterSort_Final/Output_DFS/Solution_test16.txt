@@ -1,0 +1,46 @@
+     -------------------** LEVEL 16 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 4
+;aabc;b;bbc;caca;
+
+STEP 2 : Move 1 to 5
+aabc;b;bb;c;caca;
+
+STEP 3 : Move 1 to 4
+;aabc;bbb;c;caca;
+
+STEP 4 : Move 2 to 1
+aab;bbb;c;c;caca;
+
+STEP 5 : Move 1 to 5
+;aab;bbb;caca;cc;
+
+STEP 6 : Move 2 to 1
+aa;b;bbb;caca;cc;
+
+STEP 7 : Move 1 to 4
+;aa;bbbb;caca;cc;
+
+STEP 8 : Move 3 to 1
+a;aa;bbbb;cac;cc;
+
+STEP 9 : Move 1 to 2
+;aaa;bbbb;cac;cc;
+
+STEP 10 : Move 3 to 1
+aaa;bbbb;c;ca;cc;
+
+STEP 11 : Move 1 to 5
+;aaa;bbbb;ca;ccc;
+
+STEP 12 : Move 3 to 1
+a;aaa;bbbb;c;ccc;
+
+STEP 13 : Move 1 to 2
+;aaaa;bbbb;c;ccc;
+
+STEP 14 : Move 3 to 5
+;;aaaa;bbbb;cccc;
+

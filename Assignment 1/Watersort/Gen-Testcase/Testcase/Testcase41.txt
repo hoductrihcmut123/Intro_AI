@@ -1,0 +1,4 @@
+41
+8
+2
+['cbad', 'ffec', 'dfbb', 'acca', 'feee', 'badd', '', '']

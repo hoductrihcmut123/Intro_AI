@@ -1,0 +1,16 @@
+     -------------------** LEVEL 8 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 3
+aa;abba;bb;
+
+STEP 2 : Move 2 to 1
+aaa;abb;bb;
+
+STEP 3 : Move 2 to 3
+a;aaa;bbbb;
+
+STEP 4 : Move 1 to 2
+;aaaa;bbbb;
+

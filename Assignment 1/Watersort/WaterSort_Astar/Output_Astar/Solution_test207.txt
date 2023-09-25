@@ -1,0 +1,307 @@
+     -------------------** LEVEL 207 **--------------------
+
+* Algorithm run time : 45.45371222496033[sec]
+
+STEP 0 : Move 0 to 0
+['qing', 'emst', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtdt', 'ocko', 'rbdf', 'qlhm', 'brsu', 'cmsn', 'savl', 'rajp', 'ujav', 'qfug', '', '']
+
+STEP 1 : Move 1 to 23
+['qin', 'emst', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtdt', 'ocko', 'rbdf', 'qlhm', 'brsu', 'cmsn', 'savl', 'rajp', 'ujav', 'qfug', 'g', '']
+
+STEP 2 : Move 18 to 1
+['qinn', 'emst', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtdt', 'ocko', 'rbdf', 'qlhm', 'brsu', 'cms', 'savl', 'rajp', 'ujav', 'qfug', 'g', '']
+
+STEP 3 : Move 22 to 23
+['qinn', 'emst', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtdt', 'ocko', 'rbdf', 'qlhm', 'brsu', 'cms', 'savl', 'rajp', 'ujav', 'qfu', 'gg', '']
+
+STEP 4 : Move 17 to 22
+['qinn', 'emst', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtdt', 'ocko', 'rbdf', 'qlhm', 'brs', 'cms', 'savl', 'rajp', 'ujav', 'qfuu', 'gg', '']
+
+STEP 5 : Move 17 to 18
+['qinn', 'emst', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtdt', 'ocko', 'rbdf', 'qlhm', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'gg', '']
+
+STEP 6 : Move 2 to 24
+['qinn', 'ems', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtdt', 'ocko', 'rbdf', 'qlhm', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'gg', 't']
+
+STEP 7 : Move 13 to 24
+['qinn', 'ems', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtd', 'ocko', 'rbdf', 'qlhm', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'gg', 'tt']
+
+STEP 8 : Move 2 to 13
+['qinn', 'em', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtds', 'ocko', 'rbdf', 'qlhm', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'gg', 'tt']
+
+STEP 9 : Move 16 to 2
+['qinn', 'emm', 'iioc', 'bckh', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtds', 'ocko', 'rbdf', 'qlh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'gg', 'tt']
+
+STEP 10 : Move 4 to 16
+['qinn', 'emm', 'iioc', 'bck', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqgk', 'nomf', 'heph', 'gtds', 'ocko', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'gg', 'tt']
+
+STEP 11 : Move 10 to 4
+['qinn', 'emm', 'iioc', 'bckk', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqg', 'nomf', 'heph', 'gtds', 'ocko', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'gg', 'tt']
+
+STEP 12 : Move 10 to 23
+['qinn', 'emm', 'iioc', 'bckk', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nq', 'nomf', 'heph', 'gtds', 'ocko', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'tt']
+
+STEP 13 : Move 3 to 2
+['qinn', 'emmc', 'iio', 'bckk', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nq', 'nomf', 'heph', 'gtds', 'ocko', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'tt']
+
+STEP 14 : Move 14 to 3
+['qinn', 'emmc', 'iioo', 'bckk', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nq', 'nomf', 'heph', 'gtds', 'ock', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'tt']
+
+STEP 15 : Move 4 to 10
+['qinn', 'emmc', 'iioo', 'bc', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nomf', 'heph', 'gtds', 'ock', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'tt']
+
+STEP 16 : Move 2 to 4
+['qinn', 'emm', 'iioo', 'bcc', 'vldj', 'iftl', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nomf', 'heph', 'gtds', 'ock', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'tt']
+
+STEP 17 : Move 6 to 2
+['qinn', 'emml', 'iioo', 'bcc', 'vldj', 'ift', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nomf', 'heph', 'gtds', 'ock', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'tt']
+
+STEP 18 : Move 6 to 24
+['qinn', 'emml', 'iioo', 'bcc', 'vldj', 'if', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nomf', 'heph', 'gtds', 'ock', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'ttt']
+
+STEP 19 : Move 11 to 6
+['qinn', 'emml', 'iioo', 'bcc', 'vldj', 'iff', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nom', 'heph', 'gtds', 'ock', 'rbdf', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'ttt']
+
+STEP 20 : Move 15 to 6
+['qinn', 'emml', 'iioo', 'bcc', 'vldj', 'ifff', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nom', 'heph', 'gtds', 'ock', 'rbd', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'ttt']
+
+STEP 21 : Move 2 to 4
+['qinn', 'emm', 'iioo', 'bccl', 'vldj', 'ifff', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nom', 'heph', 'gtds', 'ock', 'rbd', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'ttt']
+
+STEP 22 : Move 11 to 2
+['qinn', 'emmm', 'iioo', 'bccl', 'vldj', 'ifff', 'kbea', 'uepp', 'rvdj', 'nqkk', 'no', 'heph', 'gtds', 'ock', 'rbd', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'ttt']
+
+STEP 23 : Move 3 to 11
+['qinn', 'emmm', 'ii', 'bccl', 'vldj', 'ifff', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbd', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'ttt']
+
+STEP 24 : Move 4 to 3
+['qinn', 'emmm', 'iil', 'bcc', 'vldj', 'ifff', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbd', 'qlhh', 'br', 'cmss', 'savl', 'rajp', 'ujav', 'qfuu', 'ggg', 'ttt']
+
+STEP 25 : Move 19 to 3
+['qinn', 'emmm', 'iill', 'bcc', 'vldj', 'ifff', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbd', 'qlhh', 'br', 'cmss', 'sav', 'rajp', 'ujav', 'qfuu', 'ggg', 'ttt']
+
+STEP 26 : Move 21 to 19
+['qinn', 'emmm', 'iill', 'bcc', 'vldj', 'ifff', 'kbea', 'uepp', 'rvdj', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbd', 'qlhh', 'br', 'cmss', 'savv', 'rajp', 'uja', 'qfuu', 'ggg', 'ttt']
+
+STEP 27 : Move 7 to 21
+['qinn', 'emmm', 'iill', 'bcc', 'vldj', 'ifff', 'kbe', 'uepp', 'rvdj', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbd', 'qlhh', 'br', 'cmss', 'savv', 'rajp', 'ujaa', 'qfuu', 'ggg', 'ttt']
+
+STEP 28 : Move 5 to 4
+['qinn', 'emmm', 'iill', 'bccj', 'vld', 'ifff', 'kbe', 'uepp', 'rvdj', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbd', 'qlhh', 'br', 'cmss', 'savv', 'rajp', 'ujaa', 'qfuu', 'ggg', 'ttt']
+
+STEP 29 : Move 5 to 15
+['qinn', 'emmm', 'iill', 'bccj', 'vl', 'ifff', 'kbe', 'uepp', 'rvdj', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'br', 'cmss', 'savv', 'rajp', 'ujaa', 'qfuu', 'ggg', 'ttt']
+
+STEP 30 : Move 3 to 5
+['qinn', 'emmm', 'ii', 'bccj', 'vlll', 'ifff', 'kbe', 'uepp', 'rvdj', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'br', 'cmss', 'savv', 'rajp', 'ujaa', 'qfuu', 'ggg', 'ttt']
+
+STEP 31 : Move 4 to 3
+['qinn', 'emmm', 'iij', 'bcc', 'vlll', 'ifff', 'kbe', 'uepp', 'rvdj', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'br', 'cmss', 'savv', 'rajp', 'ujaa', 'qfuu', 'ggg', 'ttt']
+
+STEP 32 : Move 9 to 3
+['qinn', 'emmm', 'iijj', 'bcc', 'vlll', 'ifff', 'kbe', 'uepp', 'rvd', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'br', 'cmss', 'savv', 'rajp', 'ujaa', 'qfuu', 'ggg', 'ttt']
+
+STEP 33 : Move 8 to 17
+['qinn', 'emmm', 'iijj', 'bcc', 'vlll', 'ifff', 'kbe', 'ue', 'rvd', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'savv', 'rajp', 'ujaa', 'qfuu', 'ggg', 'ttt']
+
+STEP 34 : Move 7 to 8
+['qinn', 'emmm', 'iijj', 'bcc', 'vlll', 'ifff', 'kb', 'uee', 'rvd', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'savv', 'rajp', 'ujaa', 'qfuu', 'ggg', 'ttt']
+
+STEP 34 : Move 8 to 7
+['qinn', 'emmm', 'iijj', 'bcc', 'vlll', 'ifff', 'kbee', 'u', 'rvd', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'savv', 'rajp', 'ujaa', 'qfuu', 'ggg', 'ttt']
+
+STEP 35 : Move 22 to 8
+['qinn', 'emmm', 'iijj', 'bcc', 'vlll', 'ifff', 'kbee', 'uuu', 'rvd', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'savv', 'rajp', 'ujaa', 'qf', 'ggg', 'ttt']
+
+STEP 36 : Move 9 to 4
+['qinn', 'emmm', 'iijj', 'bccd', 'vlll', 'ifff', 'kbee', 'uuu', 'rv', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'savv', 'rajp', 'ujaa', 'qf', 'ggg', 'ttt']
+
+STEP 37 : Move 19 to 9
+['qinn', 'emmm', 'iijj', 'bccd', 'vlll', 'ifff', 'kbee', 'uuu', 'rvvv', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'sa', 'rajp', 'ujaa', 'qf', 'ggg', 'ttt']
+
+STEP 38 : Move 21 to 19
+['qinn', 'emmm', 'iijj', 'bccd', 'vlll', 'ifff', 'kbee', 'uuu', 'rvvv', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'rajp', 'uj', 'qf', 'ggg', 'ttt']
+
+STEP 39 : Move 3 to 21
+['qinn', 'emmm', 'ii', 'bccd', 'vlll', 'ifff', 'kbee', 'uuu', 'rvvv', 'nqkk', 'nooo', 'heph', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'rajp', 'ujjj', 'qf', 'ggg', 'ttt']
+
+STEP 40 : Move 12 to 3
+['qinn', 'emmm', 'iih', 'bccd', 'vlll', 'ifff', 'kbee', 'uuu', 'rvvv', 'nqkk', 'nooo', 'hep', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'rajp', 'ujjj', 'qf', 'ggg', 'ttt']
+
+STEP 41 : Move 20 to 12
+['qinn', 'emmm', 'iih', 'bccd', 'vlll', 'ifff', 'kbee', 'uuu', 'rvvv', 'nqkk', 'nooo', 'hepp', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qf', 'ggg', 'ttt']
+
+STEP 42 : Move 12 to 22
+['qinn', 'emmm', 'iih', 'bccd', 'vlll', 'ifff', 'kbee', 'uuu', 'rvvv', 'nqkk', 'nooo', 'he', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 43 : Move 7 to 12
+['qinn', 'emmm', 'iih', 'bccd', 'vlll', 'ifff', 'kb', 'uuu', 'rvvv', 'nqkk', 'nooo', 'heee', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 44 : Move 7 to 3
+['qinn', 'emmm', 'iihb', 'bccd', 'vlll', 'ifff', 'k', 'uuu', 'rvvv', 'nqkk', 'nooo', 'heee', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 45 : Move 10 to 7
+['qinn', 'emmm', 'iihb', 'bccd', 'vlll', 'ifff', 'kkk', 'uuu', 'rvvv', 'nq', 'nooo', 'heee', 'gtds', 'ock', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 46 : Move 14 to 7
+['qinn', 'emmm', 'iihb', 'bccd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nq', 'nooo', 'heee', 'gtds', 'oc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 47 : Move 4 to 8
+['qinn', 'emmm', 'iihb', 'bcc', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'nq', 'nooo', 'heee', 'gtds', 'oc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 48 : Move 4 to 14
+['qinn', 'emmm', 'iihb', 'b', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'nq', 'nooo', 'heee', 'gtds', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 49 : Move 3 to 4
+['qinn', 'emmm', 'iih', 'bb', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'nq', 'nooo', 'heee', 'gtds', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 50 : Move 10 to 3
+['qinn', 'emmm', 'iihq', 'bb', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'n', 'nooo', 'heee', 'gtds', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 51 : Move 1 to 10
+['qi', 'emmm', 'iihq', 'bb', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'nnn', 'nooo', 'heee', 'gtds', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 52 : Move 1 to 4
+['q', 'emmm', 'iihq', 'bbi', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'nnn', 'nooo', 'heee', 'gtds', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 53 : Move 3 to 1
+['qq', 'emmm', 'iih', 'bbi', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'nnn', 'nooo', 'heee', 'gtds', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 54 : Move 3 to 1
+['qqh', 'emmm', 'ii', 'bbi', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'nnn', 'nooo', 'heee', 'gtds', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 55 : Move 4 to 3
+['qqh', 'emmm', 'iii', 'bb', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'nnn', 'nooo', 'heee', 'gtds', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 56 : Move 13 to 1
+['qqhs', 'emmm', 'iii', 'bb', 'vlll', 'ifff', 'kkkk', 'uuud', 'rvvv', 'nnn', 'nooo', 'heee', 'gtd', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 57 : Move 8 to 13
+['qqhs', 'emmm', 'iii', 'bb', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nnn', 'nooo', 'heee', 'gtdd', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 58 : Move 13 to 4
+['qqhs', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nnn', 'nooo', 'heee', 'gt', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'ttt']
+
+STEP 59 : Move 13 to 24
+['qqhs', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nnn', 'nooo', 'heee', 'g', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'ggg', 'tttt']
+
+STEP 60 : Move 13 to 23
+['qqhs', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nnn', 'nooo', 'heee', '', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 61 : Move 1 to 13
+['qqh', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nnn', 'nooo', 'heee', 's', 'occc', 'rbdd', 'qlhh', 'brpp', 'cmss', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 62 : Move 18 to 13
+['qqh', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nnn', 'nooo', 'heee', 'sss', 'occc', 'rbdd', 'qlhh', 'brpp', 'cm', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 63 : Move 18 to 1
+['qqhm', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nnn', 'nooo', 'heee', 'sss', 'occc', 'rbdd', 'qlhh', 'brpp', 'c', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 64 : Move 14 to 18
+['qqhm', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nnn', 'nooo', 'heee', 'sss', 'o', 'rbdd', 'qlhh', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 65 : Move 11 to 14
+['qqhm', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'nnn', 'n', 'heee', 'sss', 'oooo', 'rbdd', 'qlhh', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 66 : Move 10 to 11
+['qqhm', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', '', 'nnnn', 'heee', 'sss', 'oooo', 'rbdd', 'qlhh', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 67 : Move 1 to 10
+['qqh', 'emmm', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'm', 'nnnn', 'heee', 'sss', 'oooo', 'rbdd', 'qlhh', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 68 : Move 2 to 10
+['qqh', 'e', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'mmmm', 'nnnn', 'heee', 'sss', 'oooo', 'rbdd', 'qlhh', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 69 : Move 12 to 2
+['qqh', 'eeee', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'mmmm', 'nnnn', 'h', 'sss', 'oooo', 'rbdd', 'qlhh', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 70 : Move 1 to 12
+['qq', 'eeee', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'mmmm', 'nnnn', 'hh', 'sss', 'oooo', 'rbdd', 'qlhh', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 71 : Move 16 to 12
+['qq', 'eeee', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'ql', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 72 : Move 16 to 1
+['qql', 'eeee', 'iii', 'bbdd', 'vlll', 'ifff', 'kkkk', 'uuu', 'rvvv', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'q', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 73 : Move 5 to 16
+['qql', 'eeee', 'iii', 'bbdd', 'v', 'ifff', 'kkkk', 'uuu', 'rvvv', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'qlll', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 74 : Move 9 to 5
+['qql', 'eeee', 'iii', 'bbdd', 'vvvv', 'ifff', 'kkkk', 'uuu', 'r', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'qlll', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 75 : Move 6 to 9
+['qql', 'eeee', 'iii', 'bbdd', 'vvvv', 'i', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'qlll', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 76 : Move 3 to 6
+['qql', 'eeee', '', 'bbdd', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'qlll', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 77 : Move 1 to 3
+['qq', 'eeee', 'l', 'bbdd', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'qlll', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 78 : Move 16 to 3
+['qq', 'eeee', 'llll', 'bbdd', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'q', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 79 : Move 1 to 16
+['', 'eeee', 'llll', 'bbdd', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'qqq', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 80 : Move 4 to 1
+['dd', 'eeee', 'llll', 'bb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rbdd', 'qqq', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 81 : Move 15 to 1
+['dddd', 'eeee', 'llll', 'bb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'rb', 'qqq', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 82 : Move 15 to 4
+['dddd', 'eeee', 'llll', 'bbb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'r', 'qqq', 'brpp', 'cccc', 'saaa', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 83 : Move 19 to 15
+['dddd', 'eeee', 'llll', 'bbb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'sss', 'oooo', 'raaa', 'qqq', 'brpp', 'cccc', 's', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 84 : Move 13 to 19
+['dddd', 'eeee', 'llll', 'bbb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', '', 'oooo', 'raaa', 'qqq', 'brpp', 'cccc', 'ssss', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 85 : Move 17 to 13
+['dddd', 'eeee', 'llll', 'bbb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'pp', 'oooo', 'raaa', 'qqq', 'br', 'cccc', 'ssss', 'raj', 'ujjj', 'qfpp', 'gggg', 'tttt']
+
+STEP 86 : Move 22 to 13
+['dddd', 'eeee', 'llll', 'bbb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', 'qqq', 'br', 'cccc', 'ssss', 'raj', 'ujjj', 'qf', 'gggg', 'tttt']
+
+STEP 87 : Move 22 to 4
+['dddd', 'eeee', 'llll', 'bbbf', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', 'qqq', 'br', 'cccc', 'ssss', 'raj', 'ujjj', 'q', 'gggg', 'tttt']
+
+STEP 88 : Move 16 to 22
+['dddd', 'eeee', 'llll', 'bbbf', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', '', 'br', 'cccc', 'ssss', 'raj', 'ujjj', 'qqqq', 'gggg', 'tttt']
+
+STEP 89 : Move 4 to 16
+['dddd', 'eeee', 'llll', 'bbb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rfff', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', 'f', 'br', 'cccc', 'ssss', 'raj', 'ujjj', 'qqqq', 'gggg', 'tttt']
+
+STEP 90 : Move 9 to 16
+['dddd', 'eeee', 'llll', 'bbb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'r', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', 'ffff', 'br', 'cccc', 'ssss', 'raj', 'ujjj', 'qqqq', 'gggg', 'tttt']
+
+STEP 91 : Move 17 to 9
+['dddd', 'eeee', 'llll', 'bbb', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rr', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', 'ffff', 'b', 'cccc', 'ssss', 'raj', 'ujjj', 'qqqq', 'gggg', 'tttt']
+
+STEP 92 : Move 4 to 17
+['dddd', 'eeee', 'llll', '', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rr', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', 'ffff', 'bbbb', 'cccc', 'ssss', 'raj', 'ujjj', 'qqqq', 'gggg', 'tttt']
+
+STEP 93 : Move 20 to 4
+['dddd', 'eeee', 'llll', 'j', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rr', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', 'ffff', 'bbbb', 'cccc', 'ssss', 'ra', 'ujjj', 'qqqq', 'gggg', 'tttt']
+
+STEP 94 : Move 21 to 4
+['dddd', 'eeee', 'llll', 'jjjj', 'vvvv', 'iiii', 'kkkk', 'uuu', 'rr', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', 'ffff', 'bbbb', 'cccc', 'ssss', 'ra', 'u', 'qqqq', 'gggg', 'tttt']
+
+STEP 95 : Move 8 to 21
+['dddd', 'eeee', 'llll', 'jjjj', 'vvvv', 'iiii', 'kkkk', '', 'rr', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'raaa', 'ffff', 'bbbb', 'cccc', 'ssss', 'ra', 'uuuu', 'qqqq', 'gggg', 'tttt']
+
+STEP 96 : Move 15 to 8
+['dddd', 'eeee', 'llll', 'jjjj', 'vvvv', 'iiii', 'kkkk', 'aaa', 'rr', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'r', 'ffff', 'bbbb', 'cccc', 'ssss', 'ra', 'uuuu', 'qqqq', 'gggg', 'tttt']
+
+STEP 97 : Move 20 to 8
+['dddd', 'eeee', 'llll', 'jjjj', 'vvvv', 'iiii', 'kkkk', 'aaaa', 'rr', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'r', 'ffff', 'bbbb', 'cccc', 'ssss', 'r', 'uuuu', 'qqqq', 'gggg', 'tttt']
+
+STEP 98 : Move 9 to 15
+['dddd', 'eeee', 'llll', 'jjjj', 'vvvv', 'iiii', 'kkkk', 'aaaa', '', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', 'rrr', 'ffff', 'bbbb', 'cccc', 'ssss', 'r', 'uuuu', 'qqqq', 'gggg', 'tttt']
+
+STEP 99 : Move 15 to 20
+['dddd', 'eeee', 'llll', 'jjjj', 'vvvv', 'iiii', 'kkkk', 'aaaa', '', 'mmmm', 'nnnn', 'hhhh', 'pppp', 'oooo', '', 'ffff', 'bbbb', 'cccc', 'ssss', 'rrrr', 'uuuu', 'qqqq', 'gggg', 'tttt']
+

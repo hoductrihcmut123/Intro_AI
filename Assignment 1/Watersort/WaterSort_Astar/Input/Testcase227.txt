@@ -1,0 +1,4 @@
+227
+24
+1
+['rjis', 'untl', 'wfdm', 'daiv', 'dork', 'ripl', 'tsaq', 'fghl', 'oagk', 'hbtu', 'omkw', 'fnej', 'qide', 'bcpn', 'pjah', 'vsom', 'ufrq', 'vgkw', 'lhwb', 'sbce', 'jtce', 'uqgc', 'vnyzpm', '']

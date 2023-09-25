@@ -1,0 +1,4 @@
+85
+12
+2
+['cjfa', 'bddj', 'efcd', 'igha', 'afei', 'cghe', 'babg', 'bifg', 'cdhj', 'ehji', '', '']

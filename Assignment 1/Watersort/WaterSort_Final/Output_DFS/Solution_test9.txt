@@ -1,0 +1,22 @@
+     -------------------** LEVEL 9 **--------------------
+
+* Algorithm run time : 0.0[sec]
+
+STEP 1 : Move 1 to 3
+a;abba;bab;
+
+STEP 2 : Move 2 to 3
+aa;abb;bab;
+
+STEP 3 : Move 1 to 2
+aa;abbb;ba;
+
+STEP 4 : Move 1 to 3
+aaa;abbb;b;
+
+STEP 5 : Move 2 to 1
+a;aaa;bbbb;
+
+STEP 6 : Move 2 to 3
+;aaaa;bbbb;
+
